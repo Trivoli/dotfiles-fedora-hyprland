@@ -138,3 +138,348 @@
 2025-09-05 14:32:33.427 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
 2025-09-05 14:33:03.132 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
 2025-09-05 14:33:08.162 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:33:59.526 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:34:04.582 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:34:09.609 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:34:29.920 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:35:00.954 [info] multiCodebaseIndexingJob dispose
+2025-09-05 14:35:00.954 [info] Aborting indexing job.
+2025-09-05 14:35:00.954 [info] Setting global status from status tracker: synced
+2025-09-05 14:35:00.954 [info] Doing a startup handshake.
+2025-09-05 14:35:01.057 [info] Finished computing merkle tree in 100.21746100002201 ms.
+2025-09-05 14:35:01.058 [info] Doing the initial handshake with hash: b8108fcf2321214b826e1dd1db0f177241ea71788664d02685d136d9fdb058b8
+2025-09-05 14:35:01.064 [info] Computed simhash vector of length: 256
+2025-09-05 14:35:01.064 [info] Path key hash: 6bd52ceb1adb0b323419b9ecd6e69649ee4c077c95d630d5bc214a4aead24bf7
+2025-09-05 14:35:01.064 [info] Handshake start
+2025-09-05 14:35:01.223 [info] Handshake timing: 161.7341449999949, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"4ca2db21-5237-452b-a4b1-65e0a408a3ff","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-09-05 14:35:01.224 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"4ca2db21-5237-452b-a4b1-65e0a408a3ff","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-09-05 14:35:01.224 [info] Starting fast remote sync.
+2025-09-05 14:35:01.224 [info] Total num embeddable files: 611
+2025-09-05 14:35:01.225 [info] Root hash: b8108fcf2321214b826e1dd1db0f177241ea71788664d02685d136d9fdb058b8
+2025-09-05 14:35:01.225 [info] In the out of sync case.
+2025-09-05 14:35:01.228 [info] Waiting on semaphore to be released 1
+2025-09-05 14:35:01.429 [info] Waiting on semaphore to be released 1
+2025-09-05 14:35:01.629 [info] Waiting on semaphore to be released 1
+2025-09-05 14:35:01.629 [info] [startSync]: sending sync merkle subtree batch of size 6
+2025-09-05 14:35:01.828 [info] Waiting on semaphore to be released 2
+2025-09-05 14:35:01.828 [info] [startSync]: sending sync merkle subtree batch of size 2
+2025-09-05 14:35:02.030 [info] Waiting on semaphore to be released 1
+2025-09-05 14:35:02.030 [info] [startSync]: sending sync merkle subtree batch of size 4
+2025-09-05 14:35:02.230 [info] Waiting on semaphore to be released 1
+2025-09-05 14:35:02.230 [info] [startSync]: sending sync merkle subtree batch of size 3
+2025-09-05 14:35:02.432 [info] Waiting on semaphore to be released 1
+2025-09-05 14:35:02.432 [info] [startSync]: sending sync merkle subtree batch of size 5
+2025-09-05 14:35:02.627 [info] Waiting on semaphore to be released 1
+2025-09-05 14:35:02.829 [info] Waiting on semaphore to be released 1
+2025-09-05 14:35:03.028 [info] setting numJobsToGo to 19
+2025-09-05 14:35:03.033 [info] [startSync]: numJobs: 19
+2025-09-05 14:35:04.004 [info] Uploading 19 files.
+2025-09-05 14:35:04.005 [info] Total number of files to embed: 611
+2025-09-05 14:35:04.005 [info] Not aborted
+2025-09-05 14:35:04.005 [info] Starting while loop.
+2025-09-05 14:35:04.018 [info] syncing batch of 2 files and 45344 bytes
+2025-09-05 14:35:05.694 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/sentry/session.json
+2025-09-05 14:35:05.694 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/GPUCache/data_0
+2025-09-05 14:35:05.695 [info] syncing batch of 4 files and 537999 bytes
+2025-09-05 14:35:06.912 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:35:10.432 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/GPUCache/index
+2025-09-05 14:35:10.432 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/GPUCache/data_1
+2025-09-05 14:35:10.432 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/main.log
+2025-09-05 14:35:10.432 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/Cache/Cache_Data/ea51f17a95d8812e_0
+2025-09-05 14:35:12.401 [info] syncing batch of 7 files and 1307721 bytes
+2025-09-05 14:35:16.516 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/window1/exthost/vscode.git/Git.log
+2025-09-05 14:35:16.519 [info] syncing batch of 2 files and 26543 bytes
+2025-09-05 14:35:18.390 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/window1/exthost/anysphere.cursor-retrieval/Cursor Indexing & Retrieval.log
+2025-09-05 14:35:18.390 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/User/workspaceStorage/f213e4e66d1279259543b582839e3054/anysphere.cursor-retrieval/high_level_folder_description.txt
+2025-09-05 14:35:18.392 [info] syncing batch of 3 files and 4320 bytes
+2025-09-05 14:35:18.512 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/Cache/Cache_Data/d3b10404dbb9e84f_0
+2025-09-05 14:35:18.512 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/Cache/Cache_Data/index-dir/the-real-index
+2025-09-05 14:35:18.512 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/window1/views.log
+2025-09-05 14:35:18.512 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/window1/renderer.log
+2025-09-05 14:35:18.512 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/User/workspaceStorage/f213e4e66d1279259543b582839e3054/state.vscdb
+2025-09-05 14:35:18.512 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/window1/exthost/exthost.log
+2025-09-05 14:35:18.512 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/window1/exthost/anysphere.cursor-always-local/Filesync.log
+2025-09-05 14:35:18.676 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/index-dir/the-real-index
+2025-09-05 14:35:18.676 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/window1/exthost/vscode.css-language-features/CSS Language Server.log
+2025-09-05 14:35:18.677 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/window1/exthost/vscode.json-language-features/JSON Language Server.log
+2025-09-05 14:35:18.822 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-09-05 14:35:19.177 [info] Finished indexing repository.
+2025-09-05 14:35:19.177 [info] Indexing job successfully done or aborted.
+2025-09-05 14:35:28.942 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:37:22.823 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:38:35.753 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:38:55.964 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:39:52.956 [info] multiCodebaseIndexingJob dispose
+2025-09-05 14:39:52.956 [info] Aborting indexing job.
+2025-09-05 14:39:52.956 [info] Setting global status from status tracker: synced
+2025-09-05 14:39:52.956 [info] Doing a startup handshake.
+2025-09-05 14:39:53.025 [info] Finished computing merkle tree in 66.182489000028 ms.
+2025-09-05 14:39:53.026 [info] Doing the initial handshake with hash: b4b4fce4ddde3d2b23ac99e1083cdf8c2c99cc6eaefd4088f1619271531f0748
+2025-09-05 14:39:53.034 [info] Computed simhash vector of length: 256
+2025-09-05 14:39:53.034 [info] Path key hash: 6bd52ceb1adb0b323419b9ecd6e69649ee4c077c95d630d5bc214a4aead24bf7
+2025-09-05 14:39:53.034 [info] Handshake start
+2025-09-05 14:39:53.176 [info] Handshake timing: 145.00009200000204, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"4ca2db21-5237-452b-a4b1-65e0a408a3ff","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-09-05 14:39:53.177 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"4ca2db21-5237-452b-a4b1-65e0a408a3ff","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-09-05 14:39:53.177 [info] Starting fast remote sync.
+2025-09-05 14:39:53.177 [info] Total num embeddable files: 612
+2025-09-05 14:39:53.178 [info] Root hash: b4b4fce4ddde3d2b23ac99e1083cdf8c2c99cc6eaefd4088f1619271531f0748
+2025-09-05 14:39:53.178 [info] In the out of sync case.
+2025-09-05 14:39:53.180 [info] Waiting on semaphore to be released 1
+2025-09-05 14:39:53.379 [info] Waiting on semaphore to be released 1
+2025-09-05 14:39:53.579 [info] Waiting on semaphore to be released 1
+2025-09-05 14:39:53.579 [info] [startSync]: sending sync merkle subtree batch of size 6
+2025-09-05 14:39:53.782 [info] Waiting on semaphore to be released 1
+2025-09-05 14:39:53.782 [info] [startSync]: sending sync merkle subtree batch of size 5
+2025-09-05 14:39:53.982 [info] Waiting on semaphore to be released 1
+2025-09-05 14:39:53.982 [info] [startSync]: sending sync merkle subtree batch of size 4
+2025-09-05 14:39:54.181 [info] Waiting on semaphore to be released 1
+2025-09-05 14:39:54.181 [info] [startSync]: sending sync merkle subtree batch of size 3
+2025-09-05 14:39:54.380 [info] Waiting on semaphore to be released 1
+2025-09-05 14:39:54.380 [info] [startSync]: sending sync merkle subtree batch of size 3
+2025-09-05 14:39:54.579 [info] setting numJobsToGo to 16
+2025-09-05 14:39:54.579 [info] [startSync]: numJobs: 16
+2025-09-05 14:39:54.579 [info] Uploading 16 files.
+2025-09-05 14:39:54.580 [info] Total number of files to embed: 612
+2025-09-05 14:39:54.580 [info] Not aborted
+2025-09-05 14:39:54.580 [info] Starting while loop.
+2025-09-05 14:39:54.592 [info] syncing batch of 2 files and 540672 bytes
+2025-09-05 14:39:56.947 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/DawnGraphiteCache/data_1
+2025-09-05 14:39:56.947 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/DawnWebGPUCache/data_1
+2025-09-05 14:39:56.949 [info] syncing batch of 4 files and 11548 bytes
+2025-09-05 14:39:59.395 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/User/globalStorage/storage.json
+2025-09-05 14:39:59.395 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/sharedprocess.log
+2025-09-05 14:39:59.395 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/Cache/Cache_Data/7513087ed2503907_0
+2025-09-05 14:39:59.395 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/Cache/Cache_Data/ea51f17a95d8812e_0
+2025-09-05 14:39:59.398 [info] syncing batch of 5 files and 1425330 bytes
+2025-09-05 14:39:59.400 [info] syncing batch of 3 files and 1277999 bytes
+2025-09-05 14:40:03.469 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/window1/exthost/vscode.git/Git.log
+2025-09-05 14:40:03.469 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/window1/exthost/anysphere.cursor-retrieval/Cursor Git Graph.log
+2025-09-05 14:40:03.469 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/window1/exthost/anysphere.cursor-retrieval/Cursor Indexing & Retrieval.log
+2025-09-05 14:40:03.470 [info] syncing batch of 2 files and 536360 bytes
+2025-09-05 14:40:03.535 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/Cache/Cache_Data/index-dir/the-real-index
+2025-09-05 14:40:03.535 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/window1/renderer.log
+2025-09-05 14:40:03.535 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/User/workspaceStorage/f213e4e66d1279259543b582839e3054/state.vscdb
+2025-09-05 14:40:03.535 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/27f6d0b1c97efff1_0
+2025-09-05 14:40:03.535 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/User/workspaceStorage/f213e4e66d1279259543b582839e3054/anysphere.cursor-retrieval/embeddable_files.txt
+2025-09-05 14:40:05.898 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:40:09.424 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/index-dir/the-real-index
+2025-09-05 14:40:09.424 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/39779604044a2c7a_0
+2025-09-05 14:40:11.673 [info] Get user commits took 2039.075271999929ms for 10 commits
+2025-09-05 14:40:13.678 [warning] Retrying ensure index created with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2025-09-05 14:40:13.813 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-09-05 14:40:15.821 [info] Finished indexing repository.
+2025-09-05 14:40:15.821 [info] Indexing job successfully done or aborted.
+2025-09-05 14:40:21.847 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:44:44.955 [info] multiCodebaseIndexingJob dispose
+2025-09-05 14:44:44.955 [info] Aborting indexing job.
+2025-09-05 14:44:44.955 [info] Setting global status from status tracker: synced
+2025-09-05 14:44:44.955 [info] Doing a startup handshake.
+2025-09-05 14:44:45.034 [info] Finished computing merkle tree in 76.6689910000423 ms.
+2025-09-05 14:44:45.035 [info] Doing the initial handshake with hash: 740de7035406b3285118edc773b00b68ea5a251fc75190bf4d94d2a8c62de990
+2025-09-05 14:44:45.039 [info] Computed simhash vector of length: 256
+2025-09-05 14:44:45.039 [info] Path key hash: 6bd52ceb1adb0b323419b9ecd6e69649ee4c077c95d630d5bc214a4aead24bf7
+2025-09-05 14:44:45.039 [info] Handshake start
+2025-09-05 14:44:46.416 [info] Handshake timing: 1377.619050999987, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"4ca2db21-5237-452b-a4b1-65e0a408a3ff","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-09-05 14:44:46.417 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"4ca2db21-5237-452b-a4b1-65e0a408a3ff","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-09-05 14:44:46.417 [info] Starting fast remote sync.
+2025-09-05 14:44:46.417 [info] Total num embeddable files: 612
+2025-09-05 14:44:46.418 [info] Root hash: 740de7035406b3285118edc773b00b68ea5a251fc75190bf4d94d2a8c62de990
+2025-09-05 14:44:46.418 [info] In the out of sync case.
+2025-09-05 14:44:46.421 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:46.619 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:46.819 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:47.019 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:47.219 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:47.420 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:47.619 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:47.820 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:48.019 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:48.219 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:48.419 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:48.620 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:48.820 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:49.021 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:49.222 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:49.425 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:49.425 [info] [startSync]: sending sync merkle subtree batch of size 8
+2025-09-05 14:44:49.622 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:49.822 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:50.023 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:50.222 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:50.423 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:50.623 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:50.822 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:51.023 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:51.222 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:51.425 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:51.426 [info] [startSync]: sending sync merkle subtree batch of size 4
+2025-09-05 14:44:51.623 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:51.823 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:52.022 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:52.223 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:52.424 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:52.624 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:52.825 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:53.024 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:53.225 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:53.426 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:53.625 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:53.826 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:54.026 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:54.226 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:54.427 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:54.627 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:54.827 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:55.027 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:55.228 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:55.428 [warning] Retrying sync merkle subtree with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2025-09-05 14:44:55.429 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:55.630 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:55.829 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:56.030 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:56.230 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:56.431 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:56.630 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:56.830 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:57.031 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:57.232 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:57.432 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:57.633 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:57.833 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:58.034 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:58.234 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:58.434 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:58.634 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:58.834 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:59.033 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:59.236 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:59.237 [info] [startSync]: sending sync merkle subtree batch of size 4
+2025-09-05 14:44:59.433 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:59.634 [info] Waiting on semaphore to be released 1
+2025-09-05 14:44:59.833 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:00.034 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:00.234 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:00.435 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:00.635 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:00.835 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:01.036 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:01.237 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:01.437 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:01.638 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:01.838 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:02.037 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:02.238 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:02.438 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:02.639 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:02.839 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:03.039 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:03.239 [warning] Retrying sync merkle subtree with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2025-09-05 14:45:03.240 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:03.440 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:03.641 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:03.840 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:04.040 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:04.241 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:04.441 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:04.642 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:04.842 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:05.046 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:05.046 [info] [startSync]: sending sync merkle subtree batch of size 3
+2025-09-05 14:45:05.243 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:05.443 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:05.644 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:05.844 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:06.045 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:06.246 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:06.445 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:06.659 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:06.862 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:06.862 [info] [startSync]: sending sync merkle subtree batch of size 3
+2025-09-05 14:45:07.061 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:07.262 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:07.462 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:07.663 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:07.862 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:08.063 [info] Waiting on semaphore to be released 1
+2025-09-05 14:45:08.264 [info] setting numJobsToGo to 17
+2025-09-05 14:45:08.267 [info] [startSync]: numJobs: 17
+2025-09-05 14:45:09.767 [info] Uploading 17 files.
+2025-09-05 14:45:09.769 [info] Total number of files to embed: 612
+2025-09-05 14:45:09.769 [info] Not aborted
+2025-09-05 14:45:09.769 [info] Starting while loop.
+2025-09-05 14:45:09.775 [info] syncing batch of 2 files and 307568 bytes
+2025-09-05 14:45:13.345 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/GPUCache/data_0
+2025-09-05 14:45:13.346 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/GPUCache/index
+2025-09-05 14:45:13.347 [info] syncing batch of 4 files and 811240 bytes
+2025-09-05 14:45:19.817 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:45:23.138 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/GPUCache/data_1
+2025-09-05 14:45:23.138 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/DawnGraphiteCache/data_1
+2025-09-05 14:45:23.138 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/DawnWebGPUCache/data_1
+2025-09-05 14:45:23.138 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/sharedprocess.log
+2025-09-05 14:45:23.141 [info] syncing batch of 6 files and 1328893 bytes
+2025-09-05 14:45:23.142 [info] syncing batch of 2 files and 1434643 bytes
+2025-09-05 14:45:31.499 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/Cache/Cache_Data/7513087ed2503907_0
+2025-09-05 14:45:31.499 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/Cache/Cache_Data/ea51f17a95d8812e_0
+2025-09-05 14:45:31.499 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/Cache/Cache_Data/index-dir/the-real-index
+2025-09-05 14:45:31.499 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/window1/renderer.log
+2025-09-05 14:45:31.499 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/User/workspaceStorage/f213e4e66d1279259543b582839e3054/state.vscdb
+2025-09-05 14:45:31.499 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/User/workspaceStorage/f213e4e66d1279259543b582839e3054/anysphere.cursor-retrieval/high_level_folder_description.txt
+2025-09-05 14:45:31.501 [info] syncing batch of 3 files and 11055 bytes
+2025-09-05 14:45:32.398 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/window1/exthost/vscode.git/Git.log
+2025-09-05 14:45:32.398 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/window1/exthost/anysphere.cursor-retrieval/Cursor Indexing & Retrieval.log
+2025-09-05 14:45:34.364 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/window1/exthost/anysphere.cursor-retrieval/Cursor Git Graph.log
+2025-09-05 14:45:34.364 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/index-dir/the-real-index
+2025-09-05 14:45:34.365 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/a483f2961c9fc0f1_0
+2025-09-05 14:45:35.093 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-09-05 14:45:35.406 [info] Finished indexing repository.
+2025-09-05 14:45:35.406 [info] Indexing job successfully done or aborted.
+2025-09-05 14:45:39.332 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:49:36.955 [info] multiCodebaseIndexingJob dispose
+2025-09-05 14:49:36.955 [info] Aborting indexing job.
+2025-09-05 14:49:36.955 [info] Setting global status from status tracker: synced
+2025-09-05 14:49:36.955 [info] Doing a startup handshake.
+2025-09-05 14:49:37.017 [info] Finished computing merkle tree in 59.726384999928996 ms.
+2025-09-05 14:49:37.017 [info] Doing the initial handshake with hash: 3b4704d24f1b1afe36ad4db57fe5c3ad4e29f356e1e20af1d802d90553f92a53
+2025-09-05 14:49:37.019 [info] Computed simhash vector of length: 256
+2025-09-05 14:49:37.019 [info] Path key hash: 6bd52ceb1adb0b323419b9ecd6e69649ee4c077c95d630d5bc214a4aead24bf7
+2025-09-05 14:49:37.019 [info] Handshake start
+2025-09-05 14:49:37.163 [info] Handshake timing: 144.314752999926, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"4ca2db21-5237-452b-a4b1-65e0a408a3ff","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-09-05 14:49:37.163 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"4ca2db21-5237-452b-a4b1-65e0a408a3ff","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-09-05 14:49:37.163 [info] Starting fast remote sync.
+2025-09-05 14:49:37.164 [info] Total num embeddable files: 612
+2025-09-05 14:49:37.165 [info] Root hash: 3b4704d24f1b1afe36ad4db57fe5c3ad4e29f356e1e20af1d802d90553f92a53
+2025-09-05 14:49:37.165 [info] In the out of sync case.
+2025-09-05 14:49:37.166 [info] Waiting on semaphore to be released 1
+2025-09-05 14:49:37.368 [info] Waiting on semaphore to be released 1
+2025-09-05 14:49:37.569 [info] Waiting on semaphore to be released 1
+2025-09-05 14:49:37.569 [info] [startSync]: sending sync merkle subtree batch of size 3
+2025-09-05 14:49:37.769 [info] Waiting on semaphore to be released 1
+2025-09-05 14:49:37.769 [info] [startSync]: sending sync merkle subtree batch of size 3
+2025-09-05 14:49:37.969 [info] Waiting on semaphore to be released 1
+2025-09-05 14:49:37.969 [info] [startSync]: sending sync merkle subtree batch of size 3
+2025-09-05 14:49:38.169 [info] Waiting on semaphore to be released 1
+2025-09-05 14:49:38.170 [info] [startSync]: sending sync merkle subtree batch of size 2
+2025-09-05 14:49:38.370 [info] Waiting on semaphore to be released 1
+2025-09-05 14:49:38.370 [info] [startSync]: sending sync merkle subtree batch of size 2
+2025-09-05 14:49:38.568 [info] setting numJobsToGo to 8
+2025-09-05 14:49:38.569 [info] [startSync]: numJobs: 8
+2025-09-05 14:49:38.569 [info] Uploading 8 files.
+2025-09-05 14:49:38.570 [info] Total number of files to embed: 612
+2025-09-05 14:49:38.570 [info] Not aborted
+2025-09-05 14:49:38.570 [info] Starting while loop.
+2025-09-05 14:49:38.581 [info] syncing batch of 2 files and 5156 bytes
+2025-09-05 14:49:39.995 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/Network Persistent State
+2025-09-05 14:49:39.996 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/Cache/Cache_Data/ea51f17a95d8812e_0
+2025-09-05 14:49:39.998 [info] syncing batch of 4 files and 570041 bytes
+2025-09-05 14:49:43.297 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/Cache/Cache_Data/7513087ed2503907_0
+2025-09-05 14:49:43.297 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/Cache/Cache_Data/index-dir/the-real-index
+2025-09-05 14:49:43.297 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/User/workspaceStorage/f213e4e66d1279259543b582839e3054/state.vscdb
+2025-09-05 14:49:43.297 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/User/workspaceStorage/f213e4e66d1279259543b582839e3054/anysphere.cursor-retrieval/embeddable_files.txt
+2025-09-05 14:49:43.301 [info] syncing batch of 2 files and 1447801 bytes
+2025-09-05 14:49:46.518 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/window1/exthost/vscode.git/Git.log
+2025-09-05 14:49:46.518 [info] Completed job successfully: 4ca2db21-5237-452b-a4b1-65e0a408a3ff ./Cursor/logs/20250905T143005/window1/exthost/anysphere.cursor-retrieval/Cursor Indexing & Retrieval.log
+2025-09-05 14:49:46.654 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-09-05 14:49:47.012 [info] Finished indexing repository.
+2025-09-05 14:49:47.013 [info] Indexing job successfully done or aborted.
+2025-09-05 14:50:07.943 [info] Get user commits took 8.364976999815553ms for 10 commits
+2025-09-05 14:50:59.961 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
