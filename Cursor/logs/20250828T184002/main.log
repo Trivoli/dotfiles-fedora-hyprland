@@ -1,0 +1,89 @@
+2025-08-28 18:40:02.714 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-arm64/cursor/1.5.5/33aff2490811b121a8e81698f53bc28107a6dd1acb67c2f801839cd49466c696/stable
+2025-08-28 18:40:02.715 [info] update#setState idle
+2025-08-28 18:40:04.018 [error] vscode-file: Refused to load resource /tmp/.mount_cursorHNHdoC/usr/share/cursor/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/tmp/.mount_cursorHNHdoC/usr/share/cursor/resources/app/extensions/theme-seti/icons/seti.woff)
+2025-08-28 18:40:32.715 [info] update#setState checking for updates
+2025-08-28 18:40:32.849 [info] update#setState idle
+2025-08-28 22:08:57.990 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 16291 8333 8294 8662 16219 16221 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:09:58.043 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 16678 8333 8294 8662 16221 16315 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:10:57.996 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 16875 8333 8294 8662 16221 16315 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:11:58.018 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 17080 8333 8294 8662 16221 16315 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:12:58.015 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 17362 8333 8294 8662 16221 16315 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:13:57.998 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 17966 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:14:57.994 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 18442 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:15:58.007 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 18971 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:16:58.007 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 19218 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:17:58.004 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 19465 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:18:58.003 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 19827 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:19:58.006 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 20156 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:20:58.001 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 20445 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:21:58.003 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 20697 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:22:58.002 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 20897 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:23:58.005 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 21094 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:24:58.006 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 21289 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:25:58.005 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 21484 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:26:57.996 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 21724 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:27:58.013 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:28:58.000 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 22138 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:29:58.006 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 22338 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:30:57.997 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 22532 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:31:57.999 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 22728 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:32:57.997 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 22929 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:33:58.000 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 23124 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:34:58.008 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 23372 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+
+2025-08-28 22:35:58.006 [error] Listing processes failed: Error: Command failed: "/tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh" 8274 8291 8292 8339 8419 8430 8431 8482 23941 8333 8294 8662 16221 16315 17523 17599 8371
+/bin/sh: line 1: /tmp/.mount_cursorOckhAm/usr/share/cursor/resources/app/out/vs/base/node/cpuUsage.sh: No such file or directory
+

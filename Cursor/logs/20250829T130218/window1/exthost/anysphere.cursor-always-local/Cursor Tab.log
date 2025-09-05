@@ -1,0 +1,392 @@
+2025-08-29 13:02:21.708 [info] CURSOR LOG: Finished creating provider!
+2025-08-29 13:04:11.763 [info] CURSOR LOG: requestId 7af0315b-2d02-45e9-bdad-ee413b0284e3  
+2025-08-29 13:04:12.229 [info] CURSOR LOG: Done streaming cpp with id 7af0315b-2d02-45e9-bdad-ee413b0284e3
+2025-08-29 13:04:12.229 [info] CPP RT LOG: Time taken for streaming cpp 474.015869140625 with request 7af0315b-2d02-45e9-bdad-ee413b0284e3
+2025-08-29 13:04:12.229 [info] CPP Request Log with id 7af0315b-2d02-45e9-bdad-ee413b0284e3
+2025-08-29 13:04:12.229 [info] =======>Model output 
+@@ swaylock/config:0
+-|image=~/.config/hypr/wallpapers/lock-bg.svg
++|image=~/.config/hypr/wallpapers/lock-bg.png
+2025-08-29 13:04:12.230 [info] =======>Debug stream time 75.49721699999645
+2025-08-29 13:04:12.230 [info] =======>Debug ttft time 75.22482099989429
+2025-08-29 13:04:12.231 [info] Average of latest 20 ttft time 75.22482099989429
+2025-08-29 13:04:12.231 [info] Average of latest 20 stream time 75.49721699999645
+2025-08-29 13:04:12.231 [info] Average of latest 20 total time NaN
+2025-08-29 13:04:12.231 [info] Average of latest 20 client time 474.015869140625
+2025-08-29 13:04:12.231 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:04:12.231 [info] CPP RT LOG: All stats {"streamingtime":474.015869140625,"actualTtftFromStart":511.617431640625,"timeTillServerRequest":62.955322265625,"requestToTtft":448.662109375,"totalTime":533.691162109375}
+2025-08-29 13:04:19.662 [info] CURSOR LOG: requestId a65514c9-86f8-4a26-8d82-f45194a2bd4e  
+2025-08-29 13:04:19.795 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-08-29 13:04:19.849 [info] CURSOR LOG: requestId d1a28901-4528-42e1-8c51-acde3b40f0c7  
+2025-08-29 13:04:19.945 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-08-29 13:04:20.001 [info] CURSOR LOG: requestId 54649d4d-df2c-4760-974d-837a08dda500  
+2025-08-29 13:04:20.136 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-08-29 13:04:20.188 [info] CURSOR LOG: requestId 0ef68d92-28b4-4534-a807-94449898fd8b  
+2025-08-29 13:04:20.244 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-08-29 13:04:20.297 [info] CURSOR LOG: requestId d1c38df5-e5c1-4596-844e-4129a3267ccd  
+2025-08-29 13:04:20.472 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-08-29 13:04:20.525 [info] CURSOR LOG: requestId 30c69ceb-5627-46aa-9c45-962cbbbd14f4  
+2025-08-29 13:04:20.676 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-08-29 13:04:20.725 [info] CURSOR LOG: requestId a467342f-9c3c-4918-ba5a-8810f14316ac  
+2025-08-29 13:04:20.890 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-08-29 13:04:20.942 [info] CURSOR LOG: requestId 6d1a6ca9-97e5-48c2-83a7-524518323051  
+2025-08-29 13:04:21.163 [info] CURSOR LOG: Done streaming cpp with id 6d1a6ca9-97e5-48c2-83a7-524518323051
+2025-08-29 13:04:21.163 [info] CPP RT LOG: Time taken for streaming cpp 222.658935546875 with request 6d1a6ca9-97e5-48c2-83a7-524518323051
+2025-08-29 13:04:21.163 [info] CPP Request Log with id 6d1a6ca9-97e5-48c2-83a7-524518323051
+2025-08-29 13:04:21.163 [info] =======>Model output 
+@@ swaylock/config:0
+-|image=~/
++|image=~/.config/hypr/wallpapers/lock-bg.png
+2025-08-29 13:04:21.163 [info] =======>Debug stream time 98.38508500019088
+2025-08-29 13:04:21.163 [info] =======>Debug ttft time 98.03280100016855
+2025-08-29 13:04:21.164 [info] Average of latest 20 ttft time 86.62881100003142
+2025-08-29 13:04:21.164 [info] Average of latest 20 stream time 86.94115100009367
+2025-08-29 13:04:21.164 [info] Average of latest 20 total time NaN
+2025-08-29 13:04:21.164 [info] Average of latest 20 client time 348.33740234375
+2025-08-29 13:04:21.164 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:04:21.164 [info] CPP RT LOG: All stats {"streamingtime":222.658935546875,"actualTtftFromStart":176.104736328125,"timeTillServerRequest":51.102783203125,"requestToTtft":125.001953125,"totalTime":273.675048828125}
+2025-08-29 13:04:21.767 [info] CURSOR LOG: requestId fdbb96c3-8b08-4985-b392-88225c50f41e  
+2025-08-29 13:04:21.991 [info] CURSOR LOG: Done streaming cpp with id fdbb96c3-8b08-4985-b392-88225c50f41e
+2025-08-29 13:04:21.991 [info] CPP RT LOG: Time taken for streaming cpp 225.5908203125 with request fdbb96c3-8b08-4985-b392-88225c50f41e
+2025-08-29 13:04:21.991 [info] CPP Request Log with id fdbb96c3-8b08-4985-b392-88225c50f41e
+2025-08-29 13:04:21.991 [info] =======>Model output 
+@@ swaylock/config:0
+-|image=~/P
++|image=~/Pictures/wallpapers/lock-bg.png
+2025-08-29 13:04:21.991 [info] =======>Debug stream time 100.69336599996313
+2025-08-29 13:04:21.991 [info] =======>Debug ttft time 100.33587599988095
+2025-08-29 13:04:21.993 [info] Average of latest 20 ttft time 91.19783266664793
+2025-08-29 13:04:21.993 [info] Average of latest 20 stream time 91.52522266671683
+2025-08-29 13:04:21.993 [info] Average of latest 20 total time NaN
+2025-08-29 13:04:21.993 [info] Average of latest 20 client time 307.421875
+2025-08-29 13:04:21.993 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:04:21.993 [info] CPP RT LOG: All stats {"streamingtime":225.5908203125,"actualTtftFromStart":191.934326171875,"timeTillServerRequest":66.3759765625,"requestToTtft":125.558349609375,"totalTime":291.8896484375}
+2025-08-29 13:04:22.008 [info] CURSOR LOG: requestId 9eecb3d2-b4a0-4848-a86e-be00063873b5  
+2025-08-29 13:04:22.246 [info] CURSOR LOG: Done streaming cpp with id 9eecb3d2-b4a0-4848-a86e-be00063873b5
+2025-08-29 13:04:22.246 [info] CPP RT LOG: Time taken for streaming cpp 241.0126953125 with request 9eecb3d2-b4a0-4848-a86e-be00063873b5
+2025-08-29 13:04:22.247 [info] CPP Request Log with id 9eecb3d2-b4a0-4848-a86e-be00063873b5
+2025-08-29 13:04:22.247 [info] =======>Model output 
+@@ swaylock/config:0
+-|image=~/Pi
++|image=~/Pictures/wallpapers/lock-bg.png
+2025-08-29 13:04:22.247 [info] =======>Debug stream time 107.52767800004221
+2025-08-29 13:04:22.247 [info] =======>Debug ttft time 107.17914299992844
+2025-08-29 13:04:22.248 [info] Average of latest 20 ttft time 95.19316024996806
+2025-08-29 13:04:22.248 [info] Average of latest 20 stream time 95.52583650004817
+2025-08-29 13:04:22.248 [info] Average of latest 20 total time NaN
+2025-08-29 13:04:22.248 [info] Average of latest 20 client time 290.819580078125
+2025-08-29 13:04:22.248 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:04:22.248 [info] CPP RT LOG: All stats {"streamingtime":241.0126953125,"actualTtftFromStart":192.730224609375,"timeTillServerRequest":56.28076171875,"requestToTtft":136.449462890625,"totalTime":297.198486328125}
+2025-08-29 13:04:29.835 [info] CURSOR LOG: requestId c2b4510d-cbd8-4012-bed1-37e4978d3800  
+2025-08-29 13:04:30.031 [info] CURSOR LOG: Done streaming cpp with id c2b4510d-cbd8-4012-bed1-37e4978d3800
+2025-08-29 13:04:30.032 [info] CPP RT LOG: Time taken for streaming cpp 199.276123046875 with request c2b4510d-cbd8-4012-bed1-37e4978d3800
+2025-08-29 13:04:30.032 [info] CPP Request Log with id c2b4510d-cbd8-4012-bed1-37e4978d3800
+2025-08-29 13:04:30.032 [info] =======>Model output 
+@@ swaylock/config:0
+-|image=~/Pictures/wallpapers/lock-bg.pn
++|image=~/Pictures/wallpapers/lock-bg.png
+2025-08-29 13:04:30.032 [info] =======>Debug stream time 66.26873999997042
+2025-08-29 13:04:30.032 [info] =======>Debug ttft time 65.84665900003165
+2025-08-29 13:04:30.033 [info] Average of latest 20 ttft time 89.32385999998078
+2025-08-29 13:04:30.033 [info] Average of latest 20 stream time 89.67441720003262
+2025-08-29 13:04:30.033 [info] Average of latest 20 total time NaN
+2025-08-29 13:04:30.033 [info] Average of latest 20 client time 272.510888671875
+2025-08-29 13:04:30.033 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:04:30.033 [info] CPP RT LOG: All stats {"streamingtime":199.276123046875,"actualTtftFromStart":185.5146484375,"timeTillServerRequest":52.159423828125,"requestToTtft":133.355224609375,"totalTime":251.335693359375}
+2025-08-29 13:04:31.113 [info] CURSOR LOG: requestId ed8f6e7a-4fd8-4443-90dd-9f2120618513  
+2025-08-29 13:04:31.162 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-08-29 13:04:31.213 [info] CURSOR LOG: requestId 24b95d6c-c05a-44a7-8e10-f412e107a539  
+2025-08-29 13:04:31.288 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-08-29 13:04:31.339 [info] CURSOR LOG: requestId 7014dd8a-4d85-45ba-bb76-1bf423827942  
+2025-08-29 13:04:31.406 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-08-29 13:04:31.458 [info] CURSOR LOG: requestId 3201f1da-2b30-4256-aa6b-58fdcff79966  
+2025-08-29 13:04:31.732 [info] CURSOR LOG: Done streaming cpp with id 3201f1da-2b30-4256-aa6b-58fdcff79966
+2025-08-29 13:04:31.732 [info] CPP RT LOG: Time taken for streaming cpp 274.043701171875 with request 3201f1da-2b30-4256-aa6b-58fdcff79966
+2025-08-29 13:04:31.732 [info] CPP Request Log with id 3201f1da-2b30-4256-aa6b-58fdcff79966
+2025-08-29 13:04:31.732 [info] =======>Model output 
+@@ swaylock/config:0
+-|image=~/Pictures/
++|image=~/Pictures/wallpapers/lock-bg.png
+2025-08-29 13:04:31.733 [info] =======>Debug stream time 132.7802780000493
+2025-08-29 13:04:31.733 [info] =======>Debug ttft time 132.49573900015093
+2025-08-29 13:04:31.734 [info] Average of latest 20 ttft time 96.5191731666758
+2025-08-29 13:04:31.734 [info] Average of latest 20 stream time 96.85872733336873
+2025-08-29 13:04:31.734 [info] Average of latest 20 total time NaN
+2025-08-29 13:04:31.734 [info] Average of latest 20 client time 272.766357421875
+2025-08-29 13:04:31.734 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:04:31.734 [info] CPP RT LOG: All stats {"streamingtime":274.043701171875,"actualTtftFromStart":193.01220703125,"timeTillServerRequest":51.5615234375,"requestToTtft":141.45068359375,"totalTime":325.536865234375}
+2025-08-29 13:04:32.163 [info] CURSOR LOG: requestId 7c09f78d-0c97-4c1a-8fcc-44b99beb65d3  
+2025-08-29 13:04:32.397 [info] CURSOR LOG: Done streaming cpp with id 7c09f78d-0c97-4c1a-8fcc-44b99beb65d3
+2025-08-29 13:04:32.397 [info] CPP RT LOG: Time taken for streaming cpp 234.847900390625 with request 7c09f78d-0c97-4c1a-8fcc-44b99beb65d3
+2025-08-29 13:04:32.397 [info] CPP Request Log with id 7c09f78d-0c97-4c1a-8fcc-44b99beb65d3
+2025-08-29 13:04:32.397 [info] =======>Model output 
+@@ swaylock/config:0
+-|image=~/Pictures/W
++|image=~/Pictures/Wallpapers/lock-bg.png
+2025-08-29 13:04:32.397 [info] =======>Debug stream time 89.45279500004835
+2025-08-29 13:04:32.397 [info] =======>Debug ttft time 88.8607399999164
+2025-08-29 13:04:32.397 [info] Average of latest 20 ttft time 95.42511128571017
+2025-08-29 13:04:32.397 [info] Average of latest 20 stream time 95.80073700003724
+2025-08-29 13:04:32.397 [info] Average of latest 20 total time NaN
+2025-08-29 13:04:32.397 [info] Average of latest 20 client time 267.3494349888393
+2025-08-29 13:04:32.398 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:04:32.398 [info] CPP RT LOG: All stats {"streamingtime":234.847900390625,"actualTtftFromStart":204.067626953125,"timeTillServerRequest":63.128662109375,"requestToTtft":140.93896484375,"totalTime":297.918212890625}
+2025-08-29 13:04:32.468 [info] CURSOR LOG: requestId 9dc00508-dd0b-412a-80fc-442edc2c5e8c  
+2025-08-29 13:04:32.476 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-08-29 13:04:43.567 [info] CURSOR LOG: requestId 1962c328-9e44-42d0-9766-b99bb0b57384  
+2025-08-29 13:04:43.683 [info] CURSOR LOG: requestId 9552d3db-013b-4082-88a0-ce25379a3bca  
+2025-08-29 13:04:43.832 [info] CURSOR LOG: Done streaming cpp with id 1962c328-9e44-42d0-9766-b99bb0b57384
+2025-08-29 13:04:43.832 [info] CPP RT LOG: Time taken for streaming cpp 268.3310546875 with request 1962c328-9e44-42d0-9766-b99bb0b57384
+2025-08-29 13:04:43.832 [info] CPP Request Log with id 1962c328-9e44-42d0-9766-b99bb0b57384
+2025-08-29 13:04:43.832 [info] =======>Model output 
+@@ swaylock/config:0
+-|image=~/Pictures/Wal
++|image=~/Pictures/Wallpapers/lock-bg.png
+2025-08-29 13:04:43.832 [info] =======>Debug stream time 110.36824600002728
+2025-08-29 13:04:43.832 [info] =======>Debug ttft time 110.06729100015946
+2025-08-29 13:04:43.833 [info] Average of latest 20 ttft time 97.25538375001634
+2025-08-29 13:04:43.833 [info] Average of latest 20 stream time 97.621675625036
+2025-08-29 13:04:43.833 [info] Average of latest 20 total time NaN
+2025-08-29 13:04:43.833 [info] Average of latest 20 client time 267.4721374511719
+2025-08-29 13:04:43.833 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:04:43.834 [info] CPP RT LOG: All stats {"streamingtime":268.3310546875,"actualTtftFromStart":218.433349609375,"timeTillServerRequest":67.593017578125,"requestToTtft":150.84033203125,"totalTime":335.8330078125}
+2025-08-29 13:04:43.847 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-08-29 13:04:46.940 [info] CURSOR LOG: requestId 735c708e-e3e8-4092-9b5a-d0bb8c7023b2  
+2025-08-29 13:04:47.147 [info] CURSOR LOG: Done streaming cpp with id 735c708e-e3e8-4092-9b5a-d0bb8c7023b2
+2025-08-29 13:04:47.147 [info] CPP RT LOG: Time taken for streaming cpp 209.265625 with request 735c708e-e3e8-4092-9b5a-d0bb8c7023b2
+2025-08-29 13:04:47.148 [info] CPP Request Log with id 735c708e-e3e8-4092-9b5a-d0bb8c7023b2
+2025-08-29 13:04:47.148 [info] =======>Model output 
+@@ swaylock/config:0
+-|image=~/Pictures/Wallpapers/m
++|image=~/Pictures/Wallpapers/m.png
+2025-08-29 13:04:47.148 [info] =======>Debug stream time 80.67128899996169
+2025-08-29 13:04:47.148 [info] =======>Debug ttft time 80.40968799998518
+2025-08-29 13:04:47.148 [info] Average of latest 20 ttft time 95.38363977779065
+2025-08-29 13:04:47.148 [info] Average of latest 20 stream time 95.73829933336108
+2025-08-29 13:04:47.148 [info] Average of latest 20 total time NaN
+2025-08-29 13:04:47.148 [info] Average of latest 20 client time 261.00474717881946
+2025-08-29 13:04:47.148 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:04:47.148 [info] CPP RT LOG: All stats {"streamingtime":209.265625,"actualTtftFromStart":189.325927734375,"timeTillServerRequest":62.61572265625,"requestToTtft":126.710205078125,"totalTime":271.840576171875}
+2025-08-29 13:05:05.114 [info] CURSOR LOG: requestId 669e7689-2334-4be6-86ca-801441a4038a  
+2025-08-29 13:05:05.380 [info] CURSOR LOG: Done streaming cpp with id 669e7689-2334-4be6-86ca-801441a4038a
+2025-08-29 13:05:05.380 [info] CPP RT LOG: Time taken for streaming cpp 268.181396484375 with request 669e7689-2334-4be6-86ca-801441a4038a
+2025-08-29 13:05:05.380 [info] CPP Request Log with id 669e7689-2334-4be6-86ca-801441a4038a
+2025-08-29 13:05:05.380 [info] =======>Model output 
+
+2025-08-29 13:05:05.380 [info] =======>Debug stream time 66.34582699998282
+2025-08-29 13:05:05.380 [info] Average of latest 20 ttft time 95.38363977779065
+2025-08-29 13:05:05.380 [info] Average of latest 20 stream time 92.79905210002326
+2025-08-29 13:05:05.380 [info] Average of latest 20 total time NaN
+2025-08-29 13:05:05.380 [info] Average of latest 20 client time 261.722412109375
+2025-08-29 13:05:05.381 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:05:05.381 [info] CPP RT LOG: All stats {"streamingtime":268.181396484375,"actualTtftFromStart":321.344970703125,"timeTillServerRequest":53.38037109375,"requestToTtft":267.964599609375,"totalTime":321.503662109375}
+2025-08-29 13:05:06.737 [info] CURSOR LOG: requestId cf1fc012-9d50-4f13-90dd-a17e218f3edb  
+2025-08-29 13:05:06.979 [info] CURSOR LOG: requestId fb3688e0-7b6f-49b2-b4ec-c43e1a4f5b73  
+2025-08-29 13:05:07.111 [info] CURSOR LOG: Done streaming cpp with id cf1fc012-9d50-4f13-90dd-a17e218f3edb
+2025-08-29 13:05:07.111 [info] CPP RT LOG: Time taken for streaming cpp 376.448486328125 with request cf1fc012-9d50-4f13-90dd-a17e218f3edb
+2025-08-29 13:05:07.111 [info] CPP Request Log with id cf1fc012-9d50-4f13-90dd-a17e218f3edb
+2025-08-29 13:05:07.111 [info] =======>Model output 
+@@ swaylock/config:0
+-|image=~/Pictures/Wallpapers/mo
++|image=~/Pictures/Wallpapers/morena-farra-ae7Lp6tDtXE-unsplash.jpg
+2025-08-29 13:05:07.111 [info] =======>Debug stream time 248.19022300001234
+2025-08-29 13:05:07.111 [info] =======>Debug ttft time 247.89632099983282
+2025-08-29 13:05:07.112 [info] Average of latest 20 ttft time 110.63490789999487
+2025-08-29 13:05:07.112 [info] Average of latest 20 stream time 106.92552218184045
+2025-08-29 13:05:07.113 [info] Average of latest 20 total time NaN
+2025-08-29 13:05:07.113 [info] Average of latest 20 client time 272.15205522017044
+2025-08-29 13:05:07.113 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:05:07.113 [info] CPP RT LOG: All stats {"streamingtime":376.448486328125,"actualTtftFromStart":311.574951171875,"timeTillServerRequest":50.962646484375,"requestToTtft":260.6123046875,"totalTime":427.351806640625}
+2025-08-29 13:05:07.131 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-08-29 13:05:07.235 [info] CURSOR LOG: requestId 4cf5c455-de4e-4244-ab26-247f1d063e7b  
+2025-08-29 13:05:07.774 [info] CURSOR LOG: Done streaming cpp with id 4cf5c455-de4e-4244-ab26-247f1d063e7b
+2025-08-29 13:05:07.774 [info] CPP RT LOG: Time taken for streaming cpp 537.874755859375 with request 4cf5c455-de4e-4244-ab26-247f1d063e7b
+2025-08-29 13:05:07.774 [info] CPP Request Log with id 4cf5c455-de4e-4244-ab26-247f1d063e7b
+2025-08-29 13:05:07.774 [info] =======>Model output 
+@@ swaylock/config:0
+-|image=~/Pictures/Wallpapers/moui
++|image=~/Pictures/Wallpapers/mouillette.png
++|show-failed-attempts
++|color=00000000
++|radius=100
++|ring-width=10
++|inside-color=00000000
++|inside-clear-color=00000000
++|inside-ver-color=00000000
++|inside-wrong-color=00000000
++|line-color=00000000
+2025-08-29 13:05:07.774 [info] =======>Debug stream time 412.71003099996597
+2025-08-29 13:05:07.774 [info] =======>Debug ttft time 141.15392899978906
+2025-08-29 13:05:07.775 [info] Average of latest 20 ttft time 113.40936436361253
+2025-08-29 13:05:07.775 [info] Average of latest 20 stream time 132.4075645833509
+2025-08-29 13:05:07.775 [info] Average of latest 20 total time NaN
+2025-08-29 13:05:07.775 [info] Average of latest 20 client time 294.2956136067708
+2025-08-29 13:05:07.775 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:05:07.775 [info] CPP RT LOG: All stats {"streamingtime":537.874755859375,"actualTtftFromStart":177.365478515625,"timeTillServerRequest":50.72412109375,"requestToTtft":126.641357421875,"totalTime":588.565185546875}
+2025-08-29 13:05:08.070 [info] CURSOR LOG: requestId c588840e-4de6-4758-a50e-d5a24c118f17  
+2025-08-29 13:05:08.159 [info] CURSOR LOG: requestId 45dc1a42-8dcd-47c1-a409-080993032853  
+2025-08-29 13:05:08.376 [info] CURSOR LOG: Done streaming cpp with id c588840e-4de6-4758-a50e-d5a24c118f17
+2025-08-29 13:05:08.376 [info] CPP RT LOG: Time taken for streaming cpp 307.63623046875 with request c588840e-4de6-4758-a50e-d5a24c118f17
+2025-08-29 13:05:08.376 [info] CPP Request Log with id c588840e-4de6-4758-a50e-d5a24c118f17
+2025-08-29 13:05:08.376 [info] =======>Model output 
+@@ swaylock/config:0
+-|image=~/Pictures/Wallpapers/mouin
++|image=~/Pictures/Wallpapers/mouna.png
++|image-bg-color=00000000
+2025-08-29 13:05:08.377 [info] =======>Debug stream time 180.0580880001653
+2025-08-29 13:05:08.377 [info] =======>Debug ttft time 179.7770820001606
+2025-08-29 13:05:08.377 [info] Average of latest 20 ttft time 118.94000749999152
+2025-08-29 13:05:08.377 [info] Average of latest 20 stream time 136.0729894615674
+2025-08-29 13:05:08.377 [info] Average of latest 20 total time NaN
+2025-08-29 13:05:08.377 [info] Average of latest 20 client time 295.32181490384613
+2025-08-29 13:05:08.377 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:05:08.377 [info] CPP RT LOG: All stats {"streamingtime":307.63623046875,"actualTtftFromStart":180.337646484375,"timeTillServerRequest":52.430908203125,"requestToTtft":127.90673828125,"totalTime":360.017822265625}
+2025-08-29 13:05:08.406 [info] CURSOR LOG: Done streaming cpp with id 45dc1a42-8dcd-47c1-a409-080993032853
+2025-08-29 13:05:08.406 [info] CPP RT LOG: Time taken for streaming cpp 248.94482421875 with request 45dc1a42-8dcd-47c1-a409-080993032853
+2025-08-29 13:05:08.406 [info] CPP Request Log with id 45dc1a42-8dcd-47c1-a409-080993032853
+2025-08-29 13:05:08.407 [info] =======>Model output 
+@@ swaylock/config:0
+-|image=~/Pictures/Wallpapers/mouint
++|image=~/Pictures/Wallpapers/mount-fuji.jpg
+2025-08-29 13:05:08.407 [info] =======>Debug stream time 118.48840299993753
+2025-08-29 13:05:08.407 [info] =======>Debug ttft time 118.20388499996625
+2025-08-29 13:05:08.407 [info] Average of latest 20 ttft time 118.88338269229727
+2025-08-29 13:05:08.407 [info] Average of latest 20 stream time 134.81694757145098
+2025-08-29 13:05:08.407 [info] Average of latest 20 total time NaN
+2025-08-29 13:05:08.407 [info] Average of latest 20 client time 292.00917271205356
+2025-08-29 13:05:08.407 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:05:08.407 [info] CPP RT LOG: All stats {"streamingtime":248.94482421875,"actualTtftFromStart":181.657958984375,"timeTillServerRequest":50.86572265625,"requestToTtft":130.792236328125,"totalTime":299.747314453125}
+2025-08-29 13:05:08.440 [info] CURSOR LOG: requestId 5decad39-a8c2-4edb-a31b-eb5c124ed345  
+2025-08-29 13:05:08.589 [info] CURSOR LOG: requestId 7efeb4f2-c9fb-4a76-9340-73589b64ed1a  
+2025-08-29 13:05:08.665 [info] CURSOR LOG: Done streaming cpp with id 5decad39-a8c2-4edb-a31b-eb5c124ed345
+2025-08-29 13:05:08.665 [info] CPP RT LOG: Time taken for streaming cpp 226.561279296875 with request 5decad39-a8c2-4edb-a31b-eb5c124ed345
+2025-08-29 13:05:08.665 [info] CPP Request Log with id 5decad39-a8c2-4edb-a31b-eb5c124ed345
+2025-08-29 13:05:08.665 [info] =======>Model output 
+@@ swaylock/config:0
+-|image=~/Pictures/Wallpapers/mouinta
++|image=~/Pictures/Wallpapers/mouintain.svg
+2025-08-29 13:05:08.665 [info] =======>Debug stream time 99.3253769997973
+2025-08-29 13:05:08.665 [info] =======>Debug ttft time 99.06563099985942
+2025-08-29 13:05:08.665 [info] Average of latest 20 ttft time 117.46782899998028
+2025-08-29 13:05:08.665 [info] Average of latest 20 stream time 132.45084286667407
+2025-08-29 13:05:08.665 [info] Average of latest 20 total time NaN
+2025-08-29 13:05:08.665 [info] Average of latest 20 client time 287.64597981770834
+2025-08-29 13:05:08.665 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:05:08.665 [info] CPP RT LOG: All stats {"streamingtime":226.561279296875,"actualTtftFromStart":182.377685546875,"timeTillServerRequest":54.816162109375,"requestToTtft":127.5615234375,"totalTime":281.316162109375}
+2025-08-29 13:05:08.684 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-08-29 13:07:09.862 [info] CURSOR LOG: requestId bd496ae5-496b-4c0c-b247-d2b390e2b806  
+2025-08-29 13:07:10.342 [info] CURSOR LOG: Done streaming cpp with id bd496ae5-496b-4c0c-b247-d2b390e2b806
+2025-08-29 13:07:10.342 [info] CPP RT LOG: Time taken for streaming cpp 521.3427734375 with request bd496ae5-496b-4c0c-b247-d2b390e2b806
+2025-08-29 13:07:10.342 [info] CPP Request Log with id bd496ae5-496b-4c0c-b247-d2b390e2b806
+2025-08-29 13:07:10.342 [info] =======>Model output 
+@@ swaylock/config:0
+-|image=~/Pictures/Wallpapers/mouintan
++|image=~/Pictures/Wallpapers/mountan.png
+2025-08-29 13:07:10.342 [info] =======>Debug stream time 118.88779500010423
+2025-08-29 13:07:10.342 [info] =======>Debug ttft time 118.52788399998099
+2025-08-29 13:07:10.343 [info] Average of latest 20 ttft time 117.53849933331367
+2025-08-29 13:07:10.343 [info] Average of latest 20 stream time 131.60315237501345
+2025-08-29 13:07:10.343 [info] Average of latest 20 total time NaN
+2025-08-29 13:07:10.343 [info] Average of latest 20 client time 302.2520294189453
+2025-08-29 13:07:10.343 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:07:10.343 [info] CPP RT LOG: All stats {"streamingtime":521.3427734375,"actualTtftFromStart":472.525634765625,"timeTillServerRequest":51.253662109375,"requestToTtft":421.27197265625,"totalTime":572.55224609375}
+2025-08-29 13:07:38.688 [info] CURSOR LOG: requestId 5a48c1a8-7782-41f9-9a36-3653fa41f876  
+2025-08-29 13:07:38.883 [info] CURSOR LOG: Done streaming cpp with id 5a48c1a8-7782-41f9-9a36-3653fa41f876
+2025-08-29 13:07:38.884 [info] CPP RT LOG: Time taken for streaming cpp 199.370361328125 with request 5a48c1a8-7782-41f9-9a36-3653fa41f876
+2025-08-29 13:07:38.884 [info] CPP Request Log with id 5a48c1a8-7782-41f9-9a36-3653fa41f876
+2025-08-29 13:07:38.884 [info] =======>Model output 
+
+2025-08-29 13:07:38.884 [info] =======>Debug stream time 63.588236999930814
+2025-08-29 13:07:38.884 [info] Average of latest 20 ttft time 117.53849933331367
+2025-08-29 13:07:38.884 [info] Average of latest 20 stream time 127.60227500000859
+2025-08-29 13:07:38.884 [info] Average of latest 20 total time NaN
+2025-08-29 13:07:38.884 [info] Average of latest 20 client time 296.20016659007354
+2025-08-29 13:07:38.884 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:07:38.884 [info] CPP RT LOG: All stats {"streamingtime":199.370361328125,"actualTtftFromStart":190.397705078125,"timeTillServerRequest":53.47509765625,"requestToTtft":136.922607421875,"totalTime":252.766357421875}
+2025-08-29 13:07:44.121 [info] CURSOR LOG: requestId 13378358-100d-4357-8057-ad7d3a70512b  
+2025-08-29 13:07:44.348 [info] CURSOR LOG: Done streaming cpp with id 13378358-100d-4357-8057-ad7d3a70512b
+2025-08-29 13:07:44.348 [info] CPP RT LOG: Time taken for streaming cpp 228.909423828125 with request 13378358-100d-4357-8057-ad7d3a70512b
+2025-08-29 13:07:44.349 [info] CPP Request Log with id 13378358-100d-4357-8057-ad7d3a70512b
+2025-08-29 13:07:44.349 [info] =======>Model output 
+@@ swaylock/config:1
+-|
++|color=00000000
+2025-08-29 13:07:44.349 [info] =======>Debug stream time 101.39222300006077
+2025-08-29 13:07:44.349 [info] =======>Debug ttft time 101.0827860001009
+2025-08-29 13:07:44.350 [info] Average of latest 20 ttft time 116.51001724998787
+2025-08-29 13:07:44.350 [info] Average of latest 20 stream time 126.14616100001149
+2025-08-29 13:07:44.350 [info] Average of latest 20 total time NaN
+2025-08-29 13:07:44.350 [info] Average of latest 20 client time 292.4617919921875
+2025-08-29 13:07:44.350 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:07:44.350 [info] CPP RT LOG: All stats {"streamingtime":228.909423828125,"actualTtftFromStart":198.86572265625,"timeTillServerRequest":70.202392578125,"requestToTtft":128.663330078125,"totalTime":299.0556640625}
+2025-08-29 13:07:52.010 [info] CURSOR LOG: requestId 8d7b28c7-3274-49b9-bfa0-69c55388f832  
+2025-08-29 13:07:52.226 [info] CURSOR LOG: Done streaming cpp with id 8d7b28c7-3274-49b9-bfa0-69c55388f832
+2025-08-29 13:07:52.227 [info] CPP RT LOG: Time taken for streaming cpp 218.271240234375 with request 8d7b28c7-3274-49b9-bfa0-69c55388f832
+2025-08-29 13:07:52.227 [info] CPP Request Log with id 8d7b28c7-3274-49b9-bfa0-69c55388f832
+2025-08-29 13:07:52.227 [info] =======>Model output 
+@@ swaylock/config:0
+-|image=~/Pictures/Wallpapers/mouintan
++|image=~/Pictures/Wallpapers/mountains.jpg
+2025-08-29 13:07:52.227 [info] =======>Debug stream time 87.35624699993059
+2025-08-29 13:07:52.227 [info] =======>Debug ttft time 87.02011499996297
+2025-08-29 13:07:52.228 [info] Average of latest 20 ttft time 114.77531711763346
+2025-08-29 13:07:52.228 [info] Average of latest 20 stream time 124.1045865789546
+2025-08-29 13:07:52.228 [info] Average of latest 20 total time NaN
+2025-08-29 13:07:52.228 [info] Average of latest 20 client time 288.55702611019734
+2025-08-29 13:07:52.228 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:07:52.228 [info] CPP RT LOG: All stats {"streamingtime":218.271240234375,"actualTtftFromStart":184.597412109375,"timeTillServerRequest":53.191650390625,"requestToTtft":131.40576171875,"totalTime":271.423583984375}
+2025-08-29 13:07:54.946 [info] CURSOR LOG: requestId d9963f26-36c0-4486-8723-74f8eff2918c  
+2025-08-29 13:07:55.149 [info] CURSOR LOG: Done streaming cpp with id d9963f26-36c0-4486-8723-74f8eff2918c
+2025-08-29 13:07:55.149 [info] CPP RT LOG: Time taken for streaming cpp 203.22607421875 with request d9963f26-36c0-4486-8723-74f8eff2918c
+2025-08-29 13:07:55.149 [info] CPP Request Log with id d9963f26-36c0-4486-8723-74f8eff2918c
+2025-08-29 13:07:55.149 [info] =======>Model output 
+
+2025-08-29 13:07:55.149 [info] =======>Debug stream time 67.85883899987675
+2025-08-29 13:07:55.150 [info] Average of latest 20 ttft time 114.77531711763346
+2025-08-29 13:07:55.150 [info] Average of latest 20 stream time 121.29229920000071
+2025-08-29 13:07:55.150 [info] Average of latest 20 total time NaN
+2025-08-29 13:07:55.150 [info] Average of latest 20 client time 284.290478515625
+2025-08-29 13:07:55.150 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:07:55.150 [info] CPP RT LOG: All stats {"streamingtime":203.22607421875,"actualTtftFromStart":209.328125,"timeTillServerRequest":59.827880859375,"requestToTtft":149.500244140625,"totalTime":263.032958984375}
+2025-08-29 13:07:58.476 [info] CURSOR LOG: requestId d77956bf-921f-413e-b55b-ed8e3b214bd7  
+2025-08-29 13:07:58.774 [info] CURSOR LOG: Done streaming cpp with id d77956bf-921f-413e-b55b-ed8e3b214bd7
+2025-08-29 13:07:58.775 [info] CPP RT LOG: Time taken for streaming cpp 299.33349609375 with request d77956bf-921f-413e-b55b-ed8e3b214bd7
+2025-08-29 13:07:58.775 [info] CPP Request Log with id d77956bf-921f-413e-b55b-ed8e3b214bd7
+2025-08-29 13:07:58.775 [info] =======>Model output 
+@@ swaylock/config:0
+-|image=~/Pictures/Wallpapers/mouintan
++|image=~/Pictures/Wallpapers/mouintan.png
+2025-08-29 13:07:58.775 [info] =======>Debug stream time 88.99805999989621
+2025-08-29 13:07:58.775 [info] =======>Debug ttft time 88.7054220000282
+2025-08-29 13:07:58.775 [info] Average of latest 20 ttft time 113.32698961109983
+2025-08-29 13:07:58.775 [info] Average of latest 20 stream time 121.96734134999569
+2025-08-29 13:07:58.775 [info] Average of latest 20 total time NaN
+2025-08-29 13:07:58.775 [info] Average of latest 20 client time 275.5563598632813
+2025-08-29 13:07:58.775 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:07:58.775 [info] CPP RT LOG: All stats {"streamingtime":299.33349609375,"actualTtftFromStart":349.54833984375,"timeTillServerRequest":50.40576171875,"requestToTtft":299.142578125,"totalTime":349.71044921875}
+2025-08-29 13:08:07.736 [info] CURSOR LOG: requestId 22cba0f3-63cd-425f-b888-cb0afcef542c  
+2025-08-29 13:08:07.945 [info] CURSOR LOG: Done streaming cpp with id 22cba0f3-63cd-425f-b888-cb0afcef542c
+2025-08-29 13:08:07.946 [info] CPP RT LOG: Time taken for streaming cpp 211.3876953125 with request 22cba0f3-63cd-425f-b888-cb0afcef542c
+2025-08-29 13:08:07.946 [info] CPP Request Log with id 22cba0f3-63cd-425f-b888-cb0afcef542c
+2025-08-29 13:08:07.946 [info] =======>Model output 
+
+2025-08-29 13:08:07.946 [info] =======>Debug stream time 46.649001999991015
+2025-08-29 13:08:07.946 [info] Average of latest 20 ttft time 113.32698961109983
+2025-08-29 13:08:07.946 [info] Average of latest 20 stream time 119.3805371999857
+2025-08-29 13:08:07.946 [info] Average of latest 20 total time NaN
+2025-08-29 13:08:07.946 [info] Average of latest 20 client time 274.9927978515625
+2025-08-29 13:08:07.946 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:08:07.946 [info] CPP RT LOG: All stats {"streamingtime":211.3876953125,"actualTtftFromStart":206.950927734375,"timeTillServerRequest":63.65087890625,"requestToTtft":143.300048828125,"totalTime":274.978271484375}
+2025-08-29 13:08:08.522 [info] CURSOR LOG: requestId 949db804-478b-47e7-8749-b664e3333c26  
+2025-08-29 13:08:08.753 [info] CURSOR LOG: Done streaming cpp with id 949db804-478b-47e7-8749-b664e3333c26
+2025-08-29 13:08:08.753 [info] CPP RT LOG: Time taken for streaming cpp 230.833984375 with request 949db804-478b-47e7-8749-b664e3333c26
+2025-08-29 13:08:08.753 [info] CPP Request Log with id 949db804-478b-47e7-8749-b664e3333c26
+2025-08-29 13:08:08.753 [info] =======>Model output 
+
+2025-08-29 13:08:08.753 [info] =======>Debug stream time 46.50112199992873
+2025-08-29 13:08:08.754 [info] Average of latest 20 ttft time 113.32698961109983
+2025-08-29 13:08:08.754 [info] Average of latest 20 stream time 116.67092499998398
+2025-08-29 13:08:08.754 [info] Average of latest 20 total time NaN
+2025-08-29 13:08:08.754 [info] Average of latest 20 client time 275.2549560546875
+2025-08-29 13:08:08.754 [info] Average of latest 20 discrepencies NaN
+2025-08-29 13:08:08.754 [info] CPP RT LOG: All stats {"streamingtime":230.833984375,"actualTtftFromStart":226.930908203125,"timeTillServerRequest":51.605712890625,"requestToTtft":175.3251953125,"totalTime":282.34619140625}

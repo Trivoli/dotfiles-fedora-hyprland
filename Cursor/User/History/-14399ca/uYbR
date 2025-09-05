@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# Wallpaper management script for hyprpaper
+# Usage: set-wallpaper <path-to-wallpaper>
+
+WALLPAPER_PATH="$1"
+CONFIG_FILE="$HOME/.config/hypr/hyprpaper.conf"
+
+if [ -z "$WALLPAPER_PATH" ]; then
+    echo "Usage: set-wallpaper <path-to-wallpaper>"
+    echo "Example: set-wallpaper ~/Pictures/Wallpapers/mountain.jpg"
+    exit 1
+fi
+
+if [ ! -f "$WALLPAPER_PATH" ]; then
+    echo "Error: Wallpaper file '$WALLPAPER_PATH' does not exist"
+    exit 1
+fi
+
+# Update the hyprpaper config file
+sed -i "s|preload = .*|preload = $WALLPAPER_PATH|" "$CONFIG_FILE"
+sed -i "s|wallpaper = ,.*|wallpaper = ,$WALLPAPER_PATH|" "$CONFIG_FILE"
+
+# Reload hyprpaper
+hyprctl dispatch reload
+
+echo "Wallpaper updated to: $WALLPAPER_PATH"
+echo "Hyprpaper configuration reloaded"

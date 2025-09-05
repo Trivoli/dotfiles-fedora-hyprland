@@ -1,0 +1,1 @@
+2025-08-30 11:26:30.769 [error] Failed to set sticky bit on /tmp/olivers-cursor-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/olivers-cursor-zsh'

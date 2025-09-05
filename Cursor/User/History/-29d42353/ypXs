@@ -1,0 +1,7 @@
+#!/bin/bash
+# Script to safely restart Hyprland
+
+echo "Restarting Hyprland..."
+hyprctl dispatch exit
+sleep 2
+exec Hyprland

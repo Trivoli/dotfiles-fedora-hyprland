@@ -1,0 +1,14 @@
+#!/bin/bash
+# Lid switch handler - lock screen before suspending
+
+# Log the lid switch event
+echo "$(date): Lid switch triggered - locking screen before suspend" >> ~/.local/share/hyprlock.log
+
+# Lock the screen
+swaylock -C ~/.config/swaylock/config &
+
+# Wait a moment for the lock screen to appear
+sleep 1
+
+# Suspend the system
+systemctl suspend

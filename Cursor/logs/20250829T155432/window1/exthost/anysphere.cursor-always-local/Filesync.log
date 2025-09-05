@@ -1,0 +1,31 @@
+2025-08-29 15:54:35.561 [error] Failed to check if file sync is enabled for user {}
+2025-08-29 15:54:35.561 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-29 15:54:35.561 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-29 15:54:35.830 [info] [registerEventListeners] Registering event listeners
+2025-08-29 15:54:37.393 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-29 15:54:37.542 [info] Fetched fsConfig in 148.04485699999987ms
+2025-08-29 15:54:37.542 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-29 15:54:37.710 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-29 15:54:38.371 [info] Fetched fsConfig in 660.4406299999996ms
+2025-08-29 15:54:38.371 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-29 15:54:38.373 [info] File sync enabled status: true
+2025-08-29 15:54:38.373 [info] Starting sync of visible tabs
+2025-08-29 15:54:38.558 [info] Starting sync of visible tabs
+2025-08-29 15:54:38.690 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-29 15:54:38.768 [info] Uploaded file hypr/hyprland.conf modelVersion=1 in 165.03278599999976ms
+2025-08-29 15:54:38.769 [info] Synced all visible tabs in 397.456768ms
+2025-08-29 15:54:38.777 [info] Uploaded file hypr/hyprland.conf modelVersion=1 in 138.24353400000018ms
+2025-08-29 15:54:38.778 [info] Synced all visible tabs in 220.484375ms
+2025-08-29 15:54:38.867 [info] Fetched fsConfig in 176.31992100000025ms
+2025-08-29 15:54:38.867 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-29 15:55:36.514 [info] Synced file hypr/hyprland.conf modelVersion=2 in 137.5933989999976ms
+2025-08-29 15:55:37.057 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-29 15:55:37.186 [info] Fetched fsConfig in 127.9332030000005ms
+2025-08-29 15:55:37.186 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-29 15:55:37.186 [info] File sync enabled status: true
+2025-08-29 15:55:37.186 [info] Starting sync of visible tabs
+2025-08-29 15:55:37.186 [info] Synced all visible tabs in 0.3501040000046487ms
+2025-08-29 15:56:03.177 [info] Synced file hypr/hyprland.conf modelVersion=4 in 122.15497699999833ms
+2025-08-29 15:56:03.790 [info] Synced file hypr/hyprland.conf modelVersion=5 in 128.71950799999468ms
+2025-08-29 15:56:04.098 [info] Synced file hypr/hyprland.conf modelVersion=6 in 135.4684899999993ms
+2025-08-29 15:56:05.544 [info] Synced file hypr/hyprland.conf modelVersion=10 in 161.34808599999815ms

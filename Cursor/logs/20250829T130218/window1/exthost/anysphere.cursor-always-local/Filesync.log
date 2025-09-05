@@ -1,0 +1,53 @@
+2025-08-29 13:02:21.708 [error] Failed to check if file sync is enabled for user {}
+2025-08-29 13:02:21.708 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-29 13:02:21.708 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-29 13:02:21.992 [info] [registerEventListeners] Registering event listeners
+2025-08-29 13:02:23.252 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-29 13:02:23.399 [info] Fetched fsConfig in 144.62199399999963ms
+2025-08-29 13:02:23.399 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-29 13:02:23.400 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-29 13:02:23.929 [info] Fetched fsConfig in 528.3545920000001ms
+2025-08-29 13:02:23.929 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-29 13:02:23.932 [info] File sync enabled status: true
+2025-08-29 13:02:23.932 [info] Starting sync of visible tabs
+2025-08-29 13:02:23.932 [info] Synced all visible tabs in 2.9237480000001597ms
+2025-08-29 13:02:24.262 [info] Starting sync of visible tabs
+2025-08-29 13:02:24.262 [info] Synced all visible tabs in 0.5988070000003063ms
+2025-08-29 13:02:24.405 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-29 13:02:24.537 [info] Fetched fsConfig in 131.7443089999997ms
+2025-08-29 13:02:24.537 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-29 13:04:12.670 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-29 13:04:12.794 [info] Fetched fsConfig in 122.965102999995ms
+2025-08-29 13:04:12.794 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-29 13:04:12.795 [info] File sync enabled status: true
+2025-08-29 13:04:12.795 [info] Starting sync of visible tabs
+2025-08-29 13:04:12.935 [info] Uploaded file swaylock/config modelVersion=3 in 124.98031100000662ms
+2025-08-29 13:04:12.935 [info] Synced all visible tabs in 141.4252059999999ms
+2025-08-29 13:04:16.216 [info] Synced file swaylock/config modelVersion=4 in 122.96735400000762ms
+2025-08-29 13:04:21.295 [info] Synced file swaylock/config modelVersion=12 in 122.41262699999788ms
+2025-08-29 13:04:22.347 [info] Synced file swaylock/config modelVersion=14 in 121.41508500000054ms
+2025-08-29 13:04:29.714 [info] Synced file swaylock/config modelVersion=15 in 133.60832499999378ms
+2025-08-29 13:04:30.181 [info] Synced file swaylock/config modelVersion=16 in 121.32838099999935ms
+2025-08-29 13:04:31.425 [info] Synced file swaylock/config modelVersion=36 in 119.61053599999286ms
+2025-08-29 13:04:31.807 [info] Synced file swaylock/config modelVersion=37 in 136.36154300000635ms
+2025-08-29 13:04:32.580 [info] Synced file swaylock/config modelVersion=38 in 187.62543899999582ms
+2025-08-29 13:04:32.836 [info] Synced file swaylock/config modelVersion=39 in 137.232588999992ms
+2025-08-29 13:04:44.039 [info] Synced file swaylock/config modelVersion=41 in 135.6263340000005ms
+2025-08-29 13:04:45.169 [info] Synced file swaylock/config modelVersion=47 in 122.6415810000035ms
+2025-08-29 13:04:45.872 [info] Synced file swaylock/config modelVersion=48 in 120.76311599998735ms
+2025-08-29 13:04:47.391 [info] Synced file swaylock/config modelVersion=49 in 206.3792320000066ms
+2025-08-29 13:05:07.061 [info] Synced file swaylock/config modelVersion=50 in 119.42079699999886ms
+2025-08-29 13:05:07.574 [info] Synced file swaylock/config modelVersion=52 in 122.46433799999068ms
+2025-08-29 13:05:08.502 [info] Synced file swaylock/config modelVersion=54 in 118.83944700000575ms
+2025-08-29 13:05:08.916 [info] Synced file swaylock/config modelVersion=56 in 120.46492100000614ms
+2025-08-29 13:07:10.241 [info] Synced file swaylock/config modelVersion=57 in 195.51121800002875ms
+2025-08-29 13:07:10.711 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-29 13:07:10.860 [info] Fetched fsConfig in 149.42733899998711ms
+2025-08-29 13:07:10.860 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-29 13:07:10.861 [info] File sync enabled status: true
+2025-08-29 13:07:10.861 [info] Starting sync of visible tabs
+2025-08-29 13:07:10.861 [info] Synced all visible tabs in 0.22832700004801154ms
+2025-08-29 13:07:39.103 [info] Synced file swaylock/config modelVersion=58 in 117.79398499999661ms
+2025-08-29 13:07:44.551 [info] Synced file swaylock/config modelVersion=59 in 172.05218599998625ms
+2025-08-29 13:07:55.317 [info] Synced file swaylock/config modelVersion=61 in 120.09351899998728ms
+2025-08-29 13:07:58.808 [info] Synced file swaylock/config modelVersion=62 in 117.67652000003727ms

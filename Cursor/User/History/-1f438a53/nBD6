@@ -1,0 +1,8 @@
+#!/bin/bash
+# Simple hyprlock launcher with logging
+
+# Log the lock event
+echo "$(date): Locking screen with hyprlock" >> ~/.local/share/hyprlock.log
+
+# Launch hyprlock
+hyprlock -c ~/.config/hypr/hyprlock.conf

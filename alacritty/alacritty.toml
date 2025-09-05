@@ -1,0 +1,36 @@
+# This is a minimal configuration to reset Alacritty to a working state.
+# It only sets your color scheme. Spacing issues are often font-related,
+# so this configuration does not set a custom font, allowing Alacritty
+# to use its default.
+
+[window]
+
+opacity = 0.6
+[colors.primary]
+# MacBook Air M1 optimized colors for P3 display
+background = "0x1a1a1a"  # Darker background for better contrast on Retina
+foreground = "0xe5e5e5"  # Brighter foreground for Retina sharpness
+
+[colors.normal]
+black   = "0x2d2d2d"  # Dark gray optimized for Retina
+red     = "0xff6b6b"  # P3 red - vibrant and accurate
+green   = "0x51cf66"  # P3 green - natural and saturated
+yellow  = "0xffd43b"  # P3 yellow - bright and clear
+blue    = "0x339af0"  # P3 blue - vivid and true
+magenta = "0xcc5de8"  # P3 magenta - intense and rich
+cyan    = "0x22b8cf"  # P3 cyan - vibrant and clear
+white   = "0xe5e5e5"  # Bright white for Retina clarity
+
+[colors.bright]
+black   = "0x585b70"
+red     = "0xff8787"  # P3 bright red
+green   = "0x69db7c"  # P3 bright green
+yellow  = "0xffe066"  # P3 bright yellow
+blue    = "0x74c0fc"  # P3 bright blue
+magenta = "0xda77f2"  # P3 bright magenta
+cyan    = "0x3bc9db"  # P3 bright cyan
+white   = "0xa6adc8"
+
+[scrolling]
+history = 10000
+

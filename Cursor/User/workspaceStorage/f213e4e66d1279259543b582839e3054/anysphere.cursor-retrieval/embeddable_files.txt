@@ -1,0 +1,638 @@
+cava/shaders/bar_spectrum.frag
+cava/shaders/pass_through.vert
+cava/shaders/northern_lights.frag
+.local/bin/lid-switch-handler
+.local/bin/hyprlock-logger
+cava/config
+nwg-panel/common-settings.json
+hyprpanel/config.json
+hyprpanel/modules.scss
+hyprpanel/modules.json
+dolphinrc
+alacritty/alacritty.toml
+Cursor/Preferences
+Cursor/Network Persistent State
+Cursor/SharedStorage-wal
+swaylock/config
+wofi/style.scss
+wofi/style.css
+Cursor/SharedStorage
+wofi/README.md
+Cursor/Session Storage/000003.log
+Cursor/Session Storage/CURRENT
+Cursor/Session Storage/MANIFEST-000001
+Cursor/Session Storage/LOCK
+Cursor/Session Storage/LOG
+Cursor/languagepacks.json
+Cursor/Cookies-journal
+Cursor/Cookies
+Cursor/CachedProfilesData/__default__profile__/extensions.user.cache
+Cursor/CachedProfilesData/__default__profile__/extensions.builtin.cache
+Cursor/machineid
+Cursor/DawnGraphiteCache/data_3
+Cursor/DawnGraphiteCache/data_2
+Cursor/DawnGraphiteCache/data_1
+Cursor/DawnGraphiteCache/data_0
+Cursor/DawnGraphiteCache/index
+Cursor/DawnWebGPUCache/data_3
+Cursor/DawnWebGPUCache/data_2
+Cursor/DawnWebGPUCache/data_1
+Cursor/DawnWebGPUCache/data_0
+Cursor/DawnWebGPUCache/index
+Cursor/GPUCache/data_3
+Cursor/GPUCache/data_2
+Cursor/GPUCache/data_1
+Cursor/GPUCache/data_0
+Cursor/GPUCache/index
+Cursor/Trust Tokens-journal
+Cursor/Trust Tokens
+Cursor/User/settings.json
+Cursor/User/keybindings.json
+Cursor/User/globalStorage/storage.json
+Cursor/User/globalStorage/anysphere.cursor-retrieval/checkpoints/4257ebc5-f3ca-4dc8-80fa-2efe4beabbe1/metadata.json
+Cursor/User/globalStorage/anysphere.cursor-retrieval/checkpoints/4257ebc5-f3ca-4dc8-80fa-2efe4beabbe1/diffs/d188d3cd-9c49-4380-8121-e71274d0231b
+Cursor/User/globalStorage/anysphere.cursor-retrieval/checkpoints/4257ebc5-f3ca-4dc8-80fa-2efe4beabbe1/files/d188d3cd-9c49-4380-8121-e71274d0231b
+Cursor/User/globalStorage/anysphere.cursor-retrieval/checkpoints/5ffac262-667c-425e-ac82-97cc08bab6c0/metadata.json
+Cursor/User/globalStorage/anysphere.cursor-retrieval/checkpoints/5ffac262-667c-425e-ac82-97cc08bab6c0/diffs/5c2d6bb8-3c7f-44c9-891e-0cafc796d585
+Cursor/User/globalStorage/anysphere.cursor-retrieval/checkpoints/5ffac262-667c-425e-ac82-97cc08bab6c0/files/5c2d6bb8-3c7f-44c9-891e-0cafc796d585
+Cursor/User/globalStorage/anysphere.cursor-retrieval/checkpoints/ed585554-641d-46d9-966a-1eaac383609b/metadata.json
+Cursor/User/globalStorage/anysphere.cursor-retrieval/checkpoints/ed585554-641d-46d9-966a-1eaac383609b/diffs/866f546b-e35e-4bc8-bd4b-17181fb117b3
+Cursor/User/globalStorage/anysphere.cursor-retrieval/checkpoints/ed585554-641d-46d9-966a-1eaac383609b/files/866f546b-e35e-4bc8-bd4b-17181fb117b3
+Cursor/User/globalStorage/state.vscdb.backup
+Cursor/User/workspaceStorage/f213e4e66d1279259543b582839e3054/anysphere.cursor-retrieval/high_level_folder_description.txt
+Cursor/User/workspaceStorage/f213e4e66d1279259543b582839e3054/anysphere.cursor-retrieval/embeddable_files.txt
+Cursor/User/workspaceStorage/f213e4e66d1279259543b582839e3054/state.vscdb
+Cursor/User/workspaceStorage/f213e4e66d1279259543b582839e3054/workspace.json
+Cursor/User/History/-29d42353/ypXs
+Cursor/User/History/-532fa2f7/kJZW
+Cursor/User/History/-7c39997e/8KV4
+Cursor/User/History/-7c39997e/TBpa
+Cursor/User/History/-7c39997e/l9lb
+Cursor/User/History/-7c39997e/Dm7C
+Cursor/User/History/-7c39997e/Hb49
+Cursor/User/History/-7c39997e/Y5Mh
+Cursor/User/History/-7c39997e/entries.json
+Cursor/User/History/-7c39997e/9EaD
+Cursor/User/History/-7c39997e/0hRK
+Cursor/User/History/-14399ca/entries.json
+Cursor/User/History/-14399ca/Kdys
+Cursor/User/History/-14399ca/uYbR
+Cursor/User/History/1190710d/vvO4.conf
+Cursor/User/History/1190710d/Qack.conf
+Cursor/User/History/1190710d/YhRu.conf
+Cursor/User/History/1190710d/entries.json
+Cursor/User/History/1190710d/YVBt.conf
+Cursor/User/History/69a259a0/0CVP.conf
+Cursor/User/History/69a259a0/f6aQ.conf
+Cursor/User/History/69a259a0/Otae.conf
+Cursor/User/History/69a259a0/hlvX.conf
+Cursor/User/History/69a259a0/jAP6.conf
+Cursor/User/History/69a259a0/qopx.conf
+Cursor/User/History/69a259a0/IPKB.conf
+Cursor/User/History/69a259a0/oOBX.conf
+Cursor/User/History/69a259a0/FG5B.conf
+Cursor/User/History/69a259a0/U9kI.conf
+Cursor/User/History/69a259a0/mGb7.conf
+Cursor/User/History/69a259a0/0fIg.conf
+Cursor/User/History/69a259a0/lhRy.conf
+Cursor/User/History/69a259a0/ol4g.conf
+Cursor/User/History/69a259a0/entries.json
+Cursor/User/History/69a259a0/ws9w.conf
+Cursor/User/History/69a259a0/E2wm.conf
+Cursor/User/History/69a259a0/gElb.conf
+Cursor/User/History/69a259a0/5cGn.conf
+Cursor/User/History/69a259a0/Gcvp.conf
+Cursor/User/History/69a259a0/zTjX.conf
+Cursor/User/History/-1f438a53/entries.json
+Cursor/User/History/-1f438a53/sXaR
+Cursor/User/History/-1f438a53/8Swv
+Cursor/User/History/-1f438a53/nBD6
+Cursor/User/History/-1f438a53/Vhj5
+Cursor/User/History/-21ffd1a0/entries.json
+Cursor/User/History/-21ffd1a0/V0lC.conf
+Cursor/User/History/-21ffd1a0/oEIq.conf
+Cursor/User/History/-21ffd1a0/Ata6.conf
+Cursor/User/History/-21ffd1a0/mNUO.conf
+Cursor/User/History/5965fa4a/entries.json
+Cursor/User/History/5965fa4a/whBL.json
+Cursor/User/History/-57b3398e/entries.json
+Cursor/User/History/-57b3398e/Ujlq.json
+Cursor/logs/20250905T143005/editSessions.log
+Cursor/logs/20250905T143005/userDataSync.log
+Cursor/logs/20250905T143005/remoteTunnelService.log
+Cursor/logs/20250905T143005/telemetry.log
+Cursor/logs/20250905T143005/network-shared.log
+Cursor/logs/20250905T143005/sharedprocess.log
+Cursor/logs/20250905T143005/ptyhost.log
+Cursor/logs/20250905T143005/terminal.log
+Cursor/logs/20250905T143005/window1/notebook.rendering.log
+Cursor/logs/20250905T143005/window1/exthost/anysphere.cursor-retrieval/Cursor Git Graph.log
+Cursor/logs/20250905T143005/window1/exthost/anysphere.cursor-retrieval/MCP Logs.log
+Cursor/logs/20250905T143005/window1/exthost/anysphere.cursor-retrieval/Cursor Indexing & Retrieval.log
+Cursor/logs/20250905T143005/window1/exthost/anysphere.cursor-retrieval/Cursor Git Indexing.log
+Cursor/logs/20250905T143005/window1/exthost/output_logging_20250905T143007/1-RCP Server.log
+Cursor/logs/20250905T143005/window1/exthost/anysphere.cursor-always-local/Cursor Always Local.log
+Cursor/logs/20250905T143005/window1/exthost/anysphere.cursor-always-local/Filesync.log
+Cursor/logs/20250905T143005/window1/exthost/anysphere.cursor-always-local/Cursor Tab.log
+Cursor/logs/20250905T143005/window1/exthost/vscode.github/GitHub.log
+Cursor/logs/20250905T143005/window1/exthost/vscode.git/Git.log
+Cursor/logs/20250905T143005/window1/exthost/extHostTelemetry.log
+Cursor/logs/20250905T143005/window1/exthost/exthost.log
+Cursor/logs/20250905T143005/window1/output_20250905T143007/tasks.log
+Cursor/logs/20250905T143005/window1/network.log
+Cursor/logs/20250905T143005/window1/views.log
+Cursor/logs/20250905T143005/window1/renderer.log
+Cursor/logs/20250905T143005/main.log
+Cursor/logs/20250830T112628/editSessions.log
+Cursor/logs/20250830T112628/userDataSync.log
+Cursor/logs/20250830T112628/remoteTunnelService.log
+Cursor/logs/20250830T112628/telemetry.log
+Cursor/logs/20250830T112628/network-shared.log
+Cursor/logs/20250830T112628/sharedprocess.log
+Cursor/logs/20250830T112628/ptyhost.log
+Cursor/logs/20250830T112628/terminal.log
+Cursor/logs/20250830T112628/window1/notebook.rendering.log
+Cursor/logs/20250830T112628/window1/exthost/anysphere.cursor-retrieval/MCP Logs.log
+Cursor/logs/20250830T112628/window1/exthost/anysphere.cursor-retrieval/Cursor Git Graph.log
+Cursor/logs/20250830T112628/window1/exthost/anysphere.cursor-retrieval/Cursor Indexing & Retrieval.log
+Cursor/logs/20250830T112628/window1/exthost/anysphere.cursor-retrieval/Cursor Git Indexing.log
+Cursor/logs/20250830T112628/window1/exthost/output_logging_20250830T112630/1-RCP Server.log
+Cursor/logs/20250830T112628/window1/exthost/anysphere.cursor-always-local/Cursor Tab.log
+Cursor/logs/20250830T112628/window1/exthost/anysphere.cursor-always-local/Filesync.log
+Cursor/logs/20250830T112628/window1/exthost/anysphere.cursor-always-local/Cursor Always Local.log
+Cursor/logs/20250830T112628/window1/exthost/vscode.github/GitHub.log
+Cursor/logs/20250830T112628/window1/exthost/vscode.git/Git.log
+Cursor/logs/20250830T112628/window1/exthost/extHostTelemetry.log
+Cursor/logs/20250830T112628/window1/exthost/exthost.log
+Cursor/logs/20250830T112628/window1/output_20250830T112630/tasks.log
+Cursor/logs/20250830T112628/window1/network.log
+Cursor/logs/20250830T112628/window1/views.log
+Cursor/logs/20250830T112628/window1/renderer.log
+Cursor/logs/20250830T112628/main.log
+Cursor/logs/20250830T105149/editSessions.log
+Cursor/logs/20250830T105149/userDataSync.log
+Cursor/logs/20250830T105149/remoteTunnelService.log
+Cursor/logs/20250830T105149/telemetry.log
+Cursor/logs/20250830T105149/network-shared.log
+Cursor/logs/20250830T105149/sharedprocess.log
+Cursor/logs/20250830T105149/ptyhost.log
+Cursor/logs/20250830T105149/terminal.log
+Cursor/logs/20250830T105149/window1/notebook.rendering.log
+Cursor/logs/20250830T105149/window1/exthost/output_logging_20250830T105152/1-RCP Server.log
+Cursor/logs/20250830T105149/window1/exthost/anysphere.cursor-retrieval/MCP Logs.log
+Cursor/logs/20250830T105149/window1/exthost/anysphere.cursor-retrieval/Cursor Git Graph.log
+Cursor/logs/20250830T105149/window1/exthost/anysphere.cursor-retrieval/Cursor Indexing & Retrieval.log
+Cursor/logs/20250830T105149/window1/exthost/anysphere.cursor-retrieval/Cursor Git Indexing.log
+Cursor/logs/20250830T105149/window1/exthost/anysphere.cursor-always-local/Cursor Always Local.log
+Cursor/logs/20250830T105149/window1/exthost/anysphere.cursor-always-local/Filesync.log
+Cursor/logs/20250830T105149/window1/exthost/anysphere.cursor-always-local/Cursor Tab.log
+Cursor/logs/20250830T105149/window1/exthost/vscode.github/GitHub.log
+Cursor/logs/20250830T105149/window1/exthost/vscode.git/Git.log
+Cursor/logs/20250830T105149/window1/exthost/extHostTelemetry.log
+Cursor/logs/20250830T105149/window1/exthost/exthost.log
+Cursor/logs/20250830T105149/window1/output_20250830T105151/tasks.log
+Cursor/logs/20250830T105149/window1/network.log
+Cursor/logs/20250830T105149/window1/views.log
+Cursor/logs/20250830T105149/window1/renderer.log
+Cursor/logs/20250830T105149/main.log
+Cursor/logs/20250829T155432/editSessions.log
+Cursor/logs/20250829T155432/userDataSync.log
+Cursor/logs/20250829T155432/remoteTunnelService.log
+Cursor/logs/20250829T155432/telemetry.log
+Cursor/logs/20250829T155432/network-shared.log
+Cursor/logs/20250829T155432/sharedprocess.log
+Cursor/logs/20250829T155432/ptyhost.log
+Cursor/logs/20250829T155432/terminal.log
+Cursor/logs/20250829T155432/window1/notebook.rendering.log
+Cursor/logs/20250829T155432/window1/exthost/anysphere.cursor-retrieval/MCP Logs.log
+Cursor/logs/20250829T155432/window1/exthost/anysphere.cursor-retrieval/Cursor Git Indexing.log
+Cursor/logs/20250829T155432/window1/exthost/anysphere.cursor-retrieval/Cursor Git Graph.log
+Cursor/logs/20250829T155432/window1/exthost/anysphere.cursor-retrieval/Cursor Indexing & Retrieval.log
+Cursor/logs/20250829T155432/window1/exthost/output_logging_20250829T155434/1-RCP Server.log
+Cursor/logs/20250829T155432/window1/exthost/anysphere.cursor-always-local/Filesync.log
+Cursor/logs/20250829T155432/window1/exthost/anysphere.cursor-always-local/Cursor Always Local.log
+Cursor/logs/20250829T155432/window1/exthost/anysphere.cursor-always-local/Cursor Tab.log
+Cursor/logs/20250829T155432/window1/exthost/vscode.github/GitHub.log
+Cursor/logs/20250829T155432/window1/exthost/vscode.git/Git.log
+Cursor/logs/20250829T155432/window1/exthost/extHostTelemetry.log
+Cursor/logs/20250829T155432/window1/exthost/exthost.log
+Cursor/logs/20250829T155432/window1/output_20250829T155434/tasks.log
+Cursor/logs/20250829T155432/window1/network.log
+Cursor/logs/20250829T155432/window1/views.log
+Cursor/logs/20250829T155432/window1/renderer.log
+Cursor/logs/20250829T155432/main.log
+Cursor/logs/20250829T130956/editSessions.log
+Cursor/logs/20250829T130956/userDataSync.log
+Cursor/logs/20250829T130956/remoteTunnelService.log
+Cursor/logs/20250829T130956/telemetry.log
+Cursor/logs/20250829T130956/network-shared.log
+Cursor/logs/20250829T130956/sharedprocess.log
+Cursor/logs/20250829T130956/ptyhost.log
+Cursor/logs/20250829T130956/terminal.log
+Cursor/logs/20250829T130956/window1/exthost/anysphere.cursor-retrieval/MCP Logs.log
+Cursor/logs/20250829T130956/window1/exthost/anysphere.cursor-retrieval/Cursor Git Graph.log
+Cursor/logs/20250829T130956/window1/exthost/anysphere.cursor-retrieval/Cursor Git Indexing.log
+Cursor/logs/20250829T130956/window1/exthost/anysphere.cursor-retrieval/Cursor Indexing & Retrieval.log
+Cursor/logs/20250829T130956/window1/exthost/output_logging_20250829T130959/1-RCP Server.log
+Cursor/logs/20250829T130956/window1/exthost/anysphere.cursor-always-local/Filesync.log
+Cursor/logs/20250829T130956/window1/exthost/anysphere.cursor-always-local/Cursor Tab.log
+Cursor/logs/20250829T130956/window1/exthost/anysphere.cursor-always-local/Cursor Always Local.log
+Cursor/logs/20250829T130956/window1/exthost/vscode.github/GitHub.log
+Cursor/logs/20250829T130956/window1/exthost/vscode.git/Git.log
+Cursor/logs/20250829T130956/window1/exthost/extHostTelemetry.log
+Cursor/logs/20250829T130956/window1/exthost/exthost.log
+Cursor/logs/20250829T130956/window1/notebook.rendering.log
+Cursor/logs/20250829T130956/window1/output_20250829T130958/tasks.log
+Cursor/logs/20250829T130956/window1/network.log
+Cursor/logs/20250829T130956/window1/views.log
+Cursor/logs/20250829T130956/window1/renderer.log
+Cursor/logs/20250829T130956/main.log
+Cursor/logs/20250829T130218/editSessions.log
+Cursor/logs/20250829T130218/userDataSync.log
+Cursor/logs/20250829T130218/remoteTunnelService.log
+Cursor/logs/20250829T130218/telemetry.log
+Cursor/logs/20250829T130218/network-shared.log
+Cursor/logs/20250829T130218/sharedprocess.log
+Cursor/logs/20250829T130218/ptyhost.log
+Cursor/logs/20250829T130218/terminal.log
+Cursor/logs/20250829T130218/window1/notebook.rendering.log
+Cursor/logs/20250829T130218/window1/exthost/anysphere.cursor-retrieval/Cursor Git Indexing.log
+Cursor/logs/20250829T130218/window1/exthost/anysphere.cursor-retrieval/Cursor Git Graph.log
+Cursor/logs/20250829T130218/window1/exthost/anysphere.cursor-retrieval/Cursor Indexing & Retrieval.log
+Cursor/logs/20250829T130218/window1/exthost/anysphere.cursor-retrieval/MCP Logs.log
+Cursor/logs/20250829T130218/window1/exthost/anysphere.cursor-always-local/Filesync.log
+Cursor/logs/20250829T130218/window1/exthost/anysphere.cursor-always-local/Cursor Tab.log
+Cursor/logs/20250829T130218/window1/exthost/anysphere.cursor-always-local/Cursor Always Local.log
+Cursor/logs/20250829T130218/window1/exthost/output_logging_20250829T130220/1-RCP Server.log
+Cursor/logs/20250829T130218/window1/exthost/vscode.github/GitHub.log
+Cursor/logs/20250829T130218/window1/exthost/vscode.git/Git.log
+Cursor/logs/20250829T130218/window1/exthost/extHostTelemetry.log
+Cursor/logs/20250829T130218/window1/exthost/exthost.log
+Cursor/logs/20250829T130218/window1/output_20250829T130220/tasks.log
+Cursor/logs/20250829T130218/window1/network.log
+Cursor/logs/20250829T130218/window1/views.log
+Cursor/logs/20250829T130218/window1/renderer.log
+Cursor/logs/20250829T130218/main.log
+Cursor/logs/20250829T130027/editSessions.log
+Cursor/logs/20250829T130027/userDataSync.log
+Cursor/logs/20250829T130027/remoteTunnelService.log
+Cursor/logs/20250829T130027/telemetry.log
+Cursor/logs/20250829T130027/network-shared.log
+Cursor/logs/20250829T130027/sharedprocess.log
+Cursor/logs/20250829T130027/ptyhost.log
+Cursor/logs/20250829T130027/terminal.log
+Cursor/logs/20250829T130027/window1/exthost/anysphere.cursor-always-local/Filesync.log
+Cursor/logs/20250829T130027/window1/exthost/anysphere.cursor-always-local/Cursor Tab.log
+Cursor/logs/20250829T130027/window1/exthost/anysphere.cursor-always-local/Cursor Always Local.log
+Cursor/logs/20250829T130027/window1/exthost/anysphere.cursor-retrieval/Cursor Git Graph.log
+Cursor/logs/20250829T130027/window1/exthost/anysphere.cursor-retrieval/MCP Logs.log
+Cursor/logs/20250829T130027/window1/exthost/anysphere.cursor-retrieval/Cursor Git Indexing.log
+Cursor/logs/20250829T130027/window1/exthost/anysphere.cursor-retrieval/Cursor Indexing & Retrieval.log
+Cursor/logs/20250829T130027/window1/exthost/output_logging_20250829T130029/1-RCP Server.log
+Cursor/logs/20250829T130027/window1/exthost/vscode.github/GitHub.log
+Cursor/logs/20250829T130027/window1/exthost/vscode.git/Git.log
+Cursor/logs/20250829T130027/window1/exthost/extHostTelemetry.log
+Cursor/logs/20250829T130027/window1/exthost/exthost.log
+Cursor/logs/20250829T130027/window1/notebook.rendering.log
+Cursor/logs/20250829T130027/window1/output_20250829T130029/tasks.log
+Cursor/logs/20250829T130027/window1/network.log
+Cursor/logs/20250829T130027/window1/views.log
+Cursor/logs/20250829T130027/window1/renderer.log
+Cursor/logs/20250829T130027/main.log
+Cursor/logs/20250829T121524/editSessions.log
+Cursor/logs/20250829T121524/userDataSync.log
+Cursor/logs/20250829T121524/telemetry.log
+Cursor/logs/20250829T121524/remoteTunnelService.log
+Cursor/logs/20250829T121524/network-shared.log
+Cursor/logs/20250829T121524/sharedprocess.log
+Cursor/logs/20250829T121524/ptyhost.log
+Cursor/logs/20250829T121524/terminal.log
+Cursor/logs/20250829T121524/window1/notebook.rendering.log
+Cursor/logs/20250829T121524/window1/exthost/anysphere.cursor-retrieval/MCP Logs.log
+Cursor/logs/20250829T121524/window1/exthost/anysphere.cursor-retrieval/Cursor Git Graph.log
+Cursor/logs/20250829T121524/window1/exthost/anysphere.cursor-retrieval/Cursor Git Indexing.log
+background
+session/dolphin_dolphin_dolphin
+knfsshare
+kde.org/UserFeedback.org.kde.dolphin.conf
+Cursor/logs/20250829T121524/window1/exthost/anysphere.cursor-retrieval/Cursor Indexing & Retrieval.log
+Cursor/logs/20250829T121524/window1/exthost/output_logging_20250829T121526/1-RCP Server.log
+Cursor/logs/20250829T121524/window1/exthost/anysphere.cursor-always-local/Cursor Tab.log
+Cursor/logs/20250829T121524/window1/exthost/anysphere.cursor-always-local/Filesync.log
+Cursor/logs/20250829T121524/window1/exthost/anysphere.cursor-always-local/Cursor Always Local.log
+Cursor/logs/20250829T121524/window1/exthost/vscode.github/GitHub.log
+Cursor/logs/20250829T121524/window1/exthost/vscode.git/Git.log
+Cursor/logs/20250829T121524/window1/exthost/extHostTelemetry.log
+Cursor/logs/20250829T121524/window1/exthost/exthost.log
+Cursor/logs/20250829T121524/window1/output_20250829T121526/tasks.log
+Cursor/logs/20250829T121524/window1/network.log
+Cursor/logs/20250829T121524/window1/views.log
+Cursor/logs/20250829T121524/window1/renderer.log
+Cursor/logs/20250829T121524/main.log
+Cursor/logs/20250828T223627/editSessions.log
+Cursor/logs/20250828T223627/userDataSync.log
+Cursor/logs/20250828T223627/remoteTunnelService.log
+Cursor/logs/20250828T223627/telemetry.log
+Cursor/logs/20250828T223627/network-shared.log
+Cursor/logs/20250828T223627/sharedprocess.log
+Cursor/logs/20250828T223627/ptyhost.log
+Cursor/logs/20250828T223627/terminal.log
+Cursor/logs/20250828T223627/window1/exthost/anysphere.cursor-retrieval/Cursor Indexing & Retrieval.log
+Cursor/logs/20250828T223627/window1/exthost/anysphere.cursor-retrieval/Cursor Git Indexing.log
+Cursor/logs/20250828T223627/window1/exthost/anysphere.cursor-retrieval/MCP Logs.log
+Cursor/logs/20250828T223627/window1/exthost/anysphere.cursor-retrieval/Cursor Git Graph.log
+Cursor/logs/20250828T223627/window1/exthost/output_logging_20250828T223630/1-RCP Server.log
+Cursor/logs/20250828T223627/window1/exthost/anysphere.cursor-always-local/Cursor Always Local.log
+Cursor/logs/20250828T223627/window1/exthost/anysphere.cursor-always-local/Filesync.log
+Cursor/logs/20250828T223627/window1/exthost/anysphere.cursor-always-local/Cursor Tab.log
+Cursor/logs/20250828T223627/window1/exthost/vscode.github/GitHub.log
+Cursor/logs/20250828T223627/window1/exthost/vscode.git/Git.log
+Cursor/logs/20250828T223627/window1/exthost/extHostTelemetry.log
+Cursor/logs/20250828T223627/window1/exthost/exthost.log
+Cursor/logs/20250828T223627/window1/notebook.rendering.log
+Cursor/logs/20250828T223627/window1/output_20250828T223629/tasks.log
+Cursor/logs/20250828T223627/window1/network.log
+Cursor/logs/20250828T223627/window1/views.log
+Cursor/logs/20250828T223627/window1/renderer.log
+Cursor/logs/20250828T223627/main.log
+Cursor/logs/20250828T184002/editSessions.log
+Cursor/logs/20250828T184002/userDataSync.log
+Cursor/logs/20250828T184002/remoteTunnelService.log
+Cursor/logs/20250828T184002/telemetry.log
+Cursor/logs/20250828T184002/network-shared.log
+Cursor/logs/20250828T184002/sharedprocess.log
+Cursor/logs/20250828T184002/ptyhost.log
+Cursor/logs/20250828T184002/terminal.log
+Cursor/logs/20250828T184002/window1/notebook.rendering.log
+Cursor/logs/20250828T184002/window1/exthost/anysphere.cursor-retrieval/MCP Logs.log
+Cursor/logs/20250828T184002/window1/exthost/anysphere.cursor-retrieval/Cursor Indexing & Retrieval.log
+Cursor/logs/20250828T184002/window1/exthost/anysphere.cursor-retrieval/Cursor Git Graph.log
+Cursor/logs/20250828T184002/window1/exthost/anysphere.cursor-retrieval/Cursor Git Indexing.log
+Cursor/logs/20250828T184002/window1/exthost/output_logging_20250828T184005/1-RCP Server.log
+Cursor/logs/20250828T184002/window1/exthost/anysphere.cursor-always-local/Filesync.log
+Cursor/logs/20250828T184002/window1/exthost/anysphere.cursor-always-local/Cursor Tab.log
+Cursor/logs/20250828T184002/window1/exthost/anysphere.cursor-always-local/Cursor Always Local.log
+Cursor/Dictionaries/en-US-10-1.bdic
+Cursor/logs/20250828T184002/window1/exthost/vscode.github/GitHub.log
+Cursor/Code Cache/wasm/index-dir/the-real-index
+Cursor/Code Cache/wasm/index
+Cursor/Code Cache/js/index-dir/the-real-index
+Cursor/Code Cache/js/index
+Cursor/Shared Dictionary/db-journal
+Cursor/logs/20250828T184002/window1/exthost/vscode.git/Git.log
+Cursor/Shared Dictionary/db
+Cursor/Shared Dictionary/cache/index-dir/the-real-index
+Cursor/Shared Dictionary/cache/index
+Cursor/Cache/Cache_Data/7513087ed2503907_0
+Cursor/logs/20250828T184002/window1/exthost/exthost.log
+Cursor/logs/20250828T184002/window1/exthost/extHostTelemetry.log
+Cursor/logs/20250828T184002/window1/output_20250828T184004/tasks.log
+Cursor/logs/20250828T184002/window1/network.log
+Cursor/logs/20250828T184002/window1/views.log
+Cursor/Cache/Cache_Data/ea51f17a95d8812e_0
+Cursor/logs/20250828T184002/window1/renderer.log
+Cursor/Cache/Cache_Data/d3b10404dbb9e84f_0
+Cursor/Cache/Cache_Data/0ecfeb832326d4cc_0
+Cursor/logs/20250828T184002/main.log
+Cursor/logs/20250828T173400/ptyhost.log
+Cursor/logs/20250828T173400/userDataSync.log
+Cursor/logs/20250828T173400/telemetry.log
+Cursor/logs/20250828T173400/network-shared.log
+Cursor/logs/20250828T173400/sharedprocess.log
+Cursor/logs/20250828T173400/editSessions.log
+Cursor/Cache/Cache_Data/06d0623afd84fb45_0
+Cursor/logs/20250828T173400/remoteTunnelService.log
+Cursor/logs/20250828T173400/terminal.log
+Cursor/logs/20250828T173400/window1/output_20250828T174930/tasks.log
+Cursor/logs/20250828T173400/window1/exthost/output_logging_20250828T174931/1-RCP Server.log
+Cursor/logs/20250828T173400/window1/exthost/vscode.json-language-features/JSON Language Server.log
+Cursor/Cache/Cache_Data/f682fe1a3c1dbde7_0
+Cursor/logs/20250828T173400/window1/exthost/anysphere.cursor-retrieval/Cursor Indexing & Retrieval.log
+Cursor/logs/20250828T173400/window1/exthost/anysphere.cursor-retrieval/MCP Logs.log
+Cursor/logs/20250828T173400/window1/exthost/anysphere.cursor-retrieval/Cursor Git Graph.log
+Cursor/logs/20250828T173400/window1/exthost/anysphere.cursor-retrieval/Cursor Git Indexing.log
+Cursor/logs/20250828T173400/window1/exthost/output_logging_20250828T173403/1-RCP Server.log
+Cursor/logs/20250828T173400/window1/exthost/anysphere.cursor-always-local/Cursor Tab.log
+Cursor/logs/20250828T173400/window1/exthost/anysphere.cursor-always-local/Filesync.log
+Cursor/logs/20250828T173400/window1/exthost/anysphere.cursor-always-local/Cursor Always Local.log
+Cursor/logs/20250828T173400/window1/exthost/vscode.github/GitHub.log
+Cursor/logs/20250828T173400/window1/exthost/vscode.git/Git.log
+Cursor/logs/20250828T173400/window1/exthost/exthost.log
+Cursor/logs/20250828T173400/window1/exthost/extHostTelemetry.log
+Cursor/logs/20250828T173400/window1/notebook.rendering.log
+Cursor/logs/20250828T173400/window1/output_20250828T173402/tasks.log
+Cursor/logs/20250828T173400/window1/network.log
+Cursor/logs/20250828T173400/window1/views.log
+Cursor/logs/20250828T173400/window1/renderer.log
+Cursor/logs/20250828T173400/main.log
+Cursor/Crashpad/client_id
+Cursor/Crashpad/settings.dat
+Cursor/Crashpad/new/a1e5ed73-54c0-4ac6-94d2-6fbe4cbf1feb.dmp
+go/telemetry/local/link@go1.24.6-go1.24.6-linux-arm64-2025-08-28.v1.count
+go/telemetry/local/cgo@go1.24.6-go1.24.6-linux-arm64-2025-08-28.v1.count
+go/telemetry/local/asm@go1.24.6-go1.24.6-linux-arm64-2025-08-28.v1.count
+Cursor/Cache/Cache_Data/49d7a0d43c103439_0
+Cursor/Cache/Cache_Data/index-dir/the-real-index
+go/telemetry/local/compile@go1.24.6-go1.24.6-linux-arm64-2025-08-28.v1.count
+go/telemetry/local/upload.token
+go/telemetry/local/go@go1.24.6-go1.24.6-linux-arm64-2025-08-28.v1.count
+go/telemetry/local/weekends
+Cursor/Cache/Cache_Data/5283edf90cf4ab50_0
+nvim/lazyvim.json
+Cursor/Cache/Cache_Data/index
+nvim/lazy-lock.json
+Cursor/Local Storage/leveldb/LOG
+nvim/stylua.toml
+Cursor/Local Storage/leveldb/LOG.old
+Cursor/Local Storage/leveldb/000003.log
+Cursor/Local Storage/leveldb/CURRENT
+Cursor/Local Storage/leveldb/MANIFEST-000001
+Cursor/Local Storage/leveldb/LOCK
+nvim/lua/plugins/example.lua
+nvim/lua/config/options.lua
+nvim/lua/config/lazy.lua
+nvim/lua/config/keymaps.lua
+nvim/lua/config/autocmds.lua
+nvim/init.lua
+nvim/README.md
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/wasm/index-dir/the-real-index
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/wasm/index
+nvim/LICENSE
+nvim/.neoconf.json
+nvim/.gitignore
+pulse/cookie
+dconf/user
+hypr/hyprland.conf
+hypr/hyprlock.conf
+hypr/hyprpaper.conf
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/d22bf3502b0dae8b_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/14cebd265fd56141_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/4a2fd07d297834f5_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/1ed1db363f74588e_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/2e9d69c77fee2979_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/66507b7f4af527f9_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/27f6d0b1c97efff1_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/a4ea0729ab880c99_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/55efe7f2863459cf_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/775ea671dccc0211_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/01ae19600272913a_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/0d1334860adca576_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/c0dd3cb47a4419d3_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/60d37376687f4500_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/46917ff604d46e9a_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/f64db772f9abdce5_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/c5cc275b4de5573a_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/6e46fc0e50aaef2d_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/416b311118aab856_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/b25dbe6ce9670090_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/9a42289f3652a66c_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/ff674df4e52c8976_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/f0168c2e7f7211f2_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/f927528149bbeeec_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/bf8e6db8496fc6d7_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/600fdb9b43d49893_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/90b8602f44750a96_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/6071f551ce210757_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/1592241068ab1685_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/5a59101cd31d5bed_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/6b5cd5a2157e0a70_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/98e3e248cccf16ae_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/757a4bc2a487f325_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/d342f0263f524cd5_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/2c3ba4b6eb7ebe90_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/c7d97d8a6a9799f5_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/5f881f9e4a89f70f_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/330cc71fca7bd2f2_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/04ae10bdf8a484ca_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/0556501b3f15f458_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/f15261bdbc4a8ee5_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/ab7dee5407f4e8c0_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/1c90f8a803c1f996_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/207b8d9b061221c1_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/9757e49b70166183_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/026e6fe848c62afb_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/76e1782311afaa76_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/3aacdb79cfa18219_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/f157d7c119beed7f_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/8b6b2d8d91be1625_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/0bad79c94d4f9e4d_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/6ea14340f234b7be_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/8cefed32ca6bd7a6_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/f67489e9076313b8_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/2b4be10a9f1808cc_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/e48298394ddd5cba_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/3ddacf51d5013e93_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/2b8793b833ea5f48_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/4a81841964a68f35_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/13ed43c9586c259a_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/8c919f459c6ec630_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/9c6ad3781db99c3a_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/870c57ff494c4502_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/19d5357712594ff1_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/ef74046c9e492f18_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/3214332315138f5d_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/7429f1e91f983bc1_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/463af5febd42a750_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/772cacb740807bb4_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/a262b3493f1d921b_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/b1e5629f18e91c33_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/63f4088e99648c06_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/28115bff41023747_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/b0e078697697ed23_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/b71c6c10c102b9e6_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/e58b09911de65dc9_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/d964ce92471f5f93_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/cc22c8d1bdcb193f_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/cfc2453513f5787b_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/023db0f4edb22aef_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/c3a16adcb1dfafc2_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/621f2f4e9c346271_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/b12550fab1aa6cb6_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/5e1d12feb20d423e_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/ced006c87d01dcbd_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/5ae05b0c913c5c35_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/45de8d26a9531f6a_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/0dd98dd2aef6af30_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/cd9c08acef3de647_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/a6f92b0ff9998752_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/3dea6e0f15ef686b_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/0ca250142cd4bf94_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/index-dir/the-real-index
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/index
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/8864c9a69ddecb93_0
+Cursor/sentry/session.json
+Cursor/sentry/queue/queue-v2.json
+Cursor/sentry/scope_v3.json
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/8e1c459ecbbfa583_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/feef89385b0707c8_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/131e998b05372d2b_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/b20e87c2c86c9dbd_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/579b98ab7bb02f68_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/5e47b7aa030cb27f_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/8c855b1a3408e2a5_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/2555b3b97ba82d92_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/e959c5c62b778483_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/0cc83b6c1a3b5fa9_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/d8ac8c1d8df5ae82_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/5193a0833cbc1c5b_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/26422c6e2764be0b_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/1c9dbbfbaf8a9a49_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/e59c75475bf86ce1_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/881be8c4caaf0958_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/e1419a0e7ea947e1_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/c7bf02b165bda1ec_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/be93be88afaba6bd_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/320ff3b8fc7236c7_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/c2ae89504d8ce9ce_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/950fe97301b0ff63_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/be8d3d1dc12bbeb6_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/624a32d178d9c096_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/d0ab471fa4c27fff_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/f1ccfc3a02223d97_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/f7a688a3b367d153_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/087408f1675c6206_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/a6f73c4ef76f36fa_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/3dfacf081d2892fa_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/92b275d648fd453b_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/bab606c2f758f9d9_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/f8cd91fd7bffeabd_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/9e00551dffd6fd7e_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/6fdfa6fdf5d43d7b_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/b1f91f1867dee194_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/213d158580421828_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/aa47d92891000b65_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/d634e26efd913ffe_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/515a0b0f3d323bab_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/175624ca09242e20_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/98acf5d4efb71eea_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/b787b4c25857c0ad_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/ef4da944f4b47e10_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/df6fb0522aaf70d1_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/7ded9207c17079c0_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/ff998ea4e42c81db_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/b0b91abfd877aefb_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/339a5b05abd4864e_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/759d3b49491d99f1_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/3678e17a76ab6f03_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/620d94fea3309def_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/6abc280bb88b3d60_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/dcaf07f9f4f7a183_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/cece0245ad35d2f9_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/ed6cdc20266aea15_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/ae3852f287902aec_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/a24a875c608bf93d_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/825a02c6f6f0f802_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/e940e7cd2c76cce4_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/e384fe673d00d8b1_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/7ae07962e92b5efb_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/4cbfa5fc902de6f8_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/7002dbbb4429c231_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/4979b80c964ad143_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/af4e682e9088b840_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/de4d8f76585e6ede_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/3d71d26467ebac1a_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/311f6844337ae51e_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/f641f5ca6994ce35_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/7be19553082c5513_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/6c456b45ce05d6c9_0
+Cursor/CachedData/823f58d4f60b795a6aefb9955933f3a2f0331d70/chrome/js/2af5b9885391da23_0

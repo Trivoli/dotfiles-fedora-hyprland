@@ -1,0 +1,8 @@
+#!/bin/bash
+# Swaylock launcher with logging
+
+# Log the lock event
+echo "$(date): Locking screen with swaylock-effects" >> ~/.local/share/hyprlock.log
+
+# Launch swaylock-effects with configuration
+swaylock-effects -C ~/.config/swaylock/config

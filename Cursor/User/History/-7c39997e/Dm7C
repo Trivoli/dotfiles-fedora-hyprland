@@ -1,0 +1,17 @@
+image=/home/olivers/.config/hypr/wallpapers/lock-bg.svg
+
+clock
+indicator
+ring-color=ffffff
+key-hl-color=ff5555
+text-color=ffffff
+inside-color=00000000
+inside-clear-color=00000000
+inside-ver-color=00000000
+inside-wrong-color=00000000
+line-color=00000000
+line-clear-color=00000000
+line-ver-color=00000000
+line-wrong-color=00000000
+separator-color=00000000
+

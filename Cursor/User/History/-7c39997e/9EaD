@@ -1,0 +1,17 @@
+swaylock \
+  --image ~/.config/hypr/wallpapers/lock-bg.svg \
+  --clock \
+  --indicator \
+  --ring-color 0xFFFFFF \
+  --key-hl-color 0xFF5555 \
+  --text-color 0xFFFFFF \
+  --inside-color 0x00000000 \
+  --inside-clear-color 0x00000000 \
+  --inside-ver-color 0x00000000 \
+  --inside-wrong-color 0x00000000 \
+  --line-color 0x00000000 \
+  --line-clear-color 0x00000000 \
+  --line-ver-color 0x00000000 \
+  --line-wrong-color 0x00000000 \
+  --separator-color 0x00000000
+

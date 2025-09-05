@@ -1,0 +1,65 @@
+2025-08-28 18:40:06.343 [error] Failed to check if file sync is enabled for user {}
+2025-08-28 18:40:06.343 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-28 18:40:06.343 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-28 18:40:06.557 [info] [registerEventListeners] Registering event listeners
+2025-08-28 18:40:07.691 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-28 18:40:07.843 [info] Fetched fsConfig in 152.15345899999966ms
+2025-08-28 18:40:07.843 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-28 18:40:08.195 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-28 18:40:08.650 [info] Fetched fsConfig in 453.72392800000034ms
+2025-08-28 18:40:08.650 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-28 18:40:08.653 [info] File sync enabled status: true
+2025-08-28 18:40:08.653 [info] Starting sync of visible tabs
+2025-08-28 18:40:08.805 [info] Uploaded file hypr/hyprland.conf modelVersion=1 in 145.2880699999996ms
+2025-08-28 18:40:08.807 [info] Synced all visible tabs in 157.4880090000006ms
+2025-08-28 18:40:09.079 [info] Starting sync of visible tabs
+2025-08-28 18:40:09.206 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-28 18:40:09.212 [info] Uploaded file hypr/hyprland.conf modelVersion=1 in 131.55854700000054ms
+2025-08-28 18:40:09.212 [info] Synced all visible tabs in 133.8481329999995ms
+2025-08-28 18:40:09.330 [info] Fetched fsConfig in 124.1108349999995ms
+2025-08-28 18:40:09.330 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-28 22:11:59.889 [info] Uploaded file hypr/hyprpaper.conf modelVersion=2 in 410.9760819999501ms
+2025-08-28 22:11:59.891 [info] Uploaded file hypr/hyprpaper.conf modelVersion=4 in 381.77745900000446ms
+2025-08-28 22:11:59.892 [info] Uploaded file hypr/hyprpaper.conf modelVersion=4 in 381.2122859999072ms
+2025-08-28 22:11:59.901 [info] Uploaded file hypr/hyprpaper.conf modelVersion=4 in 389.75651199999265ms
+2025-08-28 22:12:08.882 [info] Uploaded file hypr/hyprland.conf modelVersion=2 in 130.3918629998807ms
+2025-08-28 22:12:08.928 [info] Uploaded file hypr/hyprland.conf modelVersion=2 in 144.34425600012764ms
+2025-08-28 22:12:08.973 [info] Uploaded file hypr/hyprland.conf modelVersion=2 in 173.8332779998891ms
+2025-08-28 22:12:08.974 [info] Uploaded file hypr/hyprland.conf modelVersion=2 in 174.18617299990728ms
+2025-08-28 22:12:09.729 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-28 22:12:09.860 [info] Fetched fsConfig in 130.298119999934ms
+2025-08-28 22:12:09.860 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-28 22:12:09.860 [info] File sync enabled status: true
+2025-08-28 22:12:09.860 [info] Starting sync of visible tabs
+2025-08-28 22:12:09.861 [info] Synced all visible tabs in 0.44818000006489456ms
+2025-08-28 22:12:19.920 [info] Synced file hypr/hyprland.conf modelVersion=3 in 177.29134200001135ms
+2025-08-28 22:12:20.937 [info] Synced file hypr/hyprland.conf modelVersion=4 in 121.48457200010307ms
+2025-08-28 22:13:28.879 [info] Synced file hypr/hyprland.conf modelVersion=5 in 420.5891989998054ms
+2025-08-28 22:13:29.939 [info] Synced file hypr/hyprland.conf modelVersion=6 in 122.96026199986227ms
+2025-08-28 22:13:35.301 [info] Handled visible editors change in 0.7265830000396818ms
+2025-08-28 22:35:20.753 [info] Uploaded file hypr/hyprland.conf modelVersion=6 in 468.89346199994907ms
+2025-08-28 22:35:20.753 [info] Handled visible editors change in 537.352387000341ms
+2025-08-28 22:35:21.853 [info] Handled visible editors change in 0.5972239999100566ms
+2025-08-28 22:35:22.134 [info] Uploaded file hypr/hyprlock.conf modelVersion=3 in 169.4000339997001ms
+2025-08-28 22:35:22.134 [info] Handled visible editors change in 242.69470899971202ms
+2025-08-28 22:35:29.477 [info] Synced file hypr/hyprlock.conf modelVersion=4 in 122.27806500019506ms
+2025-08-28 22:35:34.416 [info] Handled visible editors change in 0.4875630000606179ms
+2025-08-28 22:35:34.444 [info] Handled visible editors change in 0.90191899985075ms
+2025-08-28 22:35:35.531 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-28 22:35:35.654 [info] Fetched fsConfig in 123.54492599982768ms
+2025-08-28 22:35:35.655 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-28 22:35:35.655 [info] File sync enabled status: true
+2025-08-28 22:35:35.655 [info] Starting sync of visible tabs
+2025-08-28 22:35:35.655 [info] Synced all visible tabs in 0.16853499971330166ms
+2025-08-28 22:35:48.497 [info] Handled visible editors change in 0.5626840000040829ms
+2025-08-28 22:35:48.726 [info] Uploaded file hypr/hyprpaper.conf modelVersion=4 in 134.3607940003276ms
+2025-08-28 22:35:48.727 [info] Handled visible editors change in 198.52540400018916ms
+2025-08-28 22:35:53.191 [info] Handled visible editors change in 0.19490799959748983ms
+2025-08-28 22:35:53.210 [info] Handled visible editors change in 0.26736300019547343ms
+2025-08-28 22:35:53.547 [info] Synced file hypr/hyprpaper.conf modelVersion=6 in 116.63434900017455ms
+2025-08-28 22:35:55.452 [info] Handled visible editors change in 0.43764799972996116ms
+2025-08-28 22:35:55.475 [info] Handled visible editors change in 0.5412679999135435ms
+2025-08-28 22:36:13.119 [info] Uploaded file hypr/hyprpaper.conf modelVersion=2 in 117.25915500009432ms
+2025-08-28 22:36:13.134 [info] Uploaded file hypr/hyprpaper.conf modelVersion=4 in 118.30606900015846ms
+2025-08-28 22:36:13.175 [info] Uploaded file hypr/hyprpaper.conf modelVersion=4 in 125.85770200006664ms
+2025-08-28 22:36:13.189 [info] Uploaded file hypr/hyprpaper.conf modelVersion=4 in 138.69235699996352ms
