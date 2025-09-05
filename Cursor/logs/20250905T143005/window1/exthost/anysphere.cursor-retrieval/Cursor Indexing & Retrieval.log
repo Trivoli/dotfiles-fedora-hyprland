@@ -483,3 +483,11 @@
 2025-09-05 14:49:47.013 [info] Indexing job successfully done or aborted.
 2025-09-05 14:50:07.943 [info] Get user commits took 8.364976999815553ms for 10 commits
 2025-09-05 14:50:59.961 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:52:42.289 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:52:47.362 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:52:52.439 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:53:02.724 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:53:07.768 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:53:08.178 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:53:12.812 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
+2025-09-05 14:53:29.100 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/olivers/.config/.gitmodules')
