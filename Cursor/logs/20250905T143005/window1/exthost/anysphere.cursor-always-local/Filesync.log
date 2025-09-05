@@ -39,3 +39,10 @@
 2025-09-05 14:30:11.316 [info] Synced all visible tabs in 150.58017400000062ms
 2025-09-05 14:30:11.367 [info] Fetched fsConfig in 127.52503700000034ms
 2025-09-05 14:30:11.368 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-09-05 14:32:18.637 [info] Handled visible editors change in 0.7260959999985062ms
+2025-09-05 14:32:25.973 [info] Handled visible editors change in 0.12337000001571141ms
+2025-09-05 14:32:25.975 [info] Handled visible editors change in 0.0516219999990426ms
+2025-09-05 14:32:25.987 [info] Handled visible editors change in 0.10137099999701604ms
+2025-09-05 14:32:25.988 [info] Handled visible editors change in 0.09158000000752509ms
+2025-09-05 14:32:26.009 [info] Handled visible editors change in 0.09553799999412149ms
+2025-09-05 14:32:26.087 [info] Handled visible editors change in 0.09478800001670606ms
