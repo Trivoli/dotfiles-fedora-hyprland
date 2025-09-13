@@ -1,5 +1,0 @@
-2025-08-30 10:51:50.047 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-arm64/cursor/1.5.5/33aff2490811b121a8e81698f53bc28107a6dd1acb67c2f801839cd49466c696/stable
-2025-08-30 10:51:50.047 [info] update#setState idle
-2025-08-30 10:51:51.329 [error] vscode-file: Refused to load resource /tmp/.mount_cursordFAOHD/usr/share/cursor/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/tmp/.mount_cursordFAOHD/usr/share/cursor/resources/app/extensions/theme-seti/icons/seti.woff)
-2025-08-30 10:52:20.047 [info] update#setState checking for updates
-2025-08-30 10:52:20.427 [info] update#setState ready

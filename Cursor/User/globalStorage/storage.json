@@ -2,22 +2,39 @@
     "telemetry.sqmId": "",
     "telemetry.machineId": "33aff2490811b121a8e81698f53bc28107a6dd1acb67c2f801839cd49466c696",
     "telemetry.macMachineId": "fc45e4bac82c3a40c50e474d8c0169635345a4553463dc2cc7fea9bca7b16644",
-    "telemetry.devDeviceId": "272f4512-5d66-443c-a571-b4e134d8950e",
+    "telemetry.devDeviceId": "b252c6d1-b875-4941-bada-11f258004204",
     "backupWorkspaces": {
         "workspaces": [],
         "folders": [
             {
                 "folderUri": "file:///home/olivers/.config"
+            },
+            {
+                "folderUri": "file:///home/olivers/.config/sway"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1757692766990"
+            },
+            {
+                "backupFolder": "1757693251670"
+            }
+        ]
     },
-    "windowControlHeight": 50,
+    "windowControlHeight": 35,
     "profileAssociations": {
         "workspaces": {
-            "file:///home/olivers/.config": "__default__profile__"
+            "file:///home/olivers/.config": "__default__profile__",
+            "file:///home/olivers/Documents/Programming/%C5%A0kola/%C5%A0vec/1.%20Hodina%20-%208.9.2025": "__default__profile__",
+            "file:///home/olivers/Documents/Programming/%C5%A0kola/%C5%A0vec": "__default__profile__",
+            "file:///home/olivers/Documents/Personal": "__default__profile__",
+            "file:///home/olivers/apps/zen": "__default__profile__",
+            "file:///home/olivers/.config/sway": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1757693251670": "__default__profile__"
+        }
     },
     "theme": "hc-black",
     "themeBackground": "#0a0a0a",
@@ -42,7 +59,7 @@
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
-            "titleBarHeight": 35,
+            "titleBarHeight": 105,
             "activityBarWidth": 0,
             "sideBarWidth": 170,
             "auxiliarySideBarWidth": 249,
@@ -55,12 +72,11 @@
             "folder": "file:///home/olivers/.config",
             "backupPath": "/home/olivers/.config/Cursor/Backups/a987ae692e9ab1d5416deac6fb69e0be",
             "uiState": {
-                "mode": 1,
-                "x": 24,
-                "y": 78,
-                "width": 2512,
-                "height": 1497,
-                "zoomLevel": 2
+                "mode": 0,
+                "x": 642,
+                "y": 52,
+                "width": 1279,
+                "height": 799
             }
         },
         "openedWindows": []
@@ -70,7 +86,12 @@
             "auxiliarySideBarWidth": [
                 249,
                 [
-                    "f213e4e66d1279259543b582839e3054"
+                    "f213e4e66d1279259543b582839e3054",
+                    "1df2a6779931787bef3c2413d8c5d27b",
+                    "a22bdf655860671f8846ed67356a194d",
+                    "12c22bd5abd6cbb69545c1ab9ed8c8a7",
+                    "599fc5e6598ae1be6746beb839c0389b",
+                    "5ab86d5fb96f5f933cb335c5e13b85e1"
                 ]
             ]
         }

@@ -1,4 +1,5 @@
 {
     "window.commandCenter": true,
-    "workbench.colorTheme": "Cursor Dark High Contrast"
+    "workbench.colorTheme": "Cursor Dark High Contrast",
+    "explorer.confirmDelete": false
 }
