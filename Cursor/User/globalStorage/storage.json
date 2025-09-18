@@ -8,21 +8,11 @@
         "folders": [
             {
                 "folderUri": "file:///home/olivers/.config"
-            },
-            {
-                "folderUri": "file:///home/olivers/.config/sway"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1757692766990"
-            },
-            {
-                "backupFolder": "1757693251670"
-            }
-        ]
+        "emptyWindows": []
     },
-    "windowControlHeight": 35,
+    "windowControlHeight": 50,
     "profileAssociations": {
         "workspaces": {
             "file:///home/olivers/.config": "__default__profile__",
@@ -32,9 +22,7 @@
             "file:///home/olivers/apps/zen": "__default__profile__",
             "file:///home/olivers/.config/sway": "__default__profile__"
         },
-        "emptyWindows": {
-            "1757693251670": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "theme": "hc-black",
     "themeBackground": "#0a0a0a",
@@ -59,7 +47,7 @@
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
-            "titleBarHeight": 105,
+            "titleBarHeight": 35,
             "activityBarWidth": 0,
             "sideBarWidth": 170,
             "auxiliarySideBarWidth": 249,
@@ -72,11 +60,12 @@
             "folder": "file:///home/olivers/.config",
             "backupPath": "/home/olivers/.config/Cursor/Backups/a987ae692e9ab1d5416deac6fb69e0be",
             "uiState": {
-                "mode": 0,
-                "x": 642,
-                "y": 52,
-                "width": 1279,
-                "height": 799
+                "mode": 1,
+                "x": 21,
+                "y": 89,
+                "width": 2512,
+                "height": 1484,
+                "zoomLevel": 2
             }
         },
         "openedWindows": []
